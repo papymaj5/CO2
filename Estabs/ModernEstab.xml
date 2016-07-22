@@ -42396,6 +42396,2455 @@
           <can-bombard>no</can-bombard>
           <comms-rating>100</comms-rating>/&gt;
 </force>
+        <force id="3775">
+          <name>WF - US - IBCT Mtn HQ</name>
+          <description />
+          <icon>
+            <background-color red="171" green="171" blue="50" />
+            <background-dark-color red="105" green="112" blue="44" />
+            <background-light-color red="232" green="235" blue="203" />
+            <designation-color red="0" green="0" blue="0" />
+            <symbol-color>black</symbol-color>
+            <military-symbol>26</military-symbol>
+            <picture-symbol>hq</picture-symbol>
+            <force-size-icon>brigade</force-size-icon>
+            <is-hq>yes</is-hq>
+          </icon>
+          <type>infantry</type>
+          <sub-type>Non-Armoured HQ</sub-type>
+          <size>brigade</size>
+          <combat-class>hq</combat-class>
+          <target-class>soft</target-class>
+          <infantry-value>0</infantry-value>
+          <recon-value>0</recon-value>
+          <engineering-value>0</engineering-value>
+          <move-type>wheeled</move-type>
+          <pers-qty>178</pers-qty>
+          <staff-capacity>9</staff-capacity>
+          <basics-qty>448.0</basics-qty>
+          <basics-consumption-rate-modifier>1.0</basics-consumption-rate-modifier>
+          <commander-rank>5</commander-rank>
+          <fuel-qty>0.0</fuel-qty>
+          <fuel-load>10.0</fuel-load>
+          <speed>
+            <max>60.0</max>
+            <normal>40.0</normal>
+          </speed>
+          <deployment-duration>
+            <deployed>00:05</deployed>
+            <dug-in>02:00</dug-in>
+            <entrenched>2:00:00</entrenched>
+            <fortified>1:00:00</fortified>
+          </deployment-duration>
+          <ready-to-fire-duration>00:00</ready-to-fire-duration>
+          <ready-to-bombard-duration>00:00</ready-to-bombard-duration>
+          <equipment-list>
+            <equipment equipment-object-id="3655" name="1-1/4 t truck M1151" qty="31" />
+            <equipment equipment-object-id="3670" name="2.5 t M1081 LMTV truck" qty="5" />
+            <equipment equipment-object-id="3661" name="5 t M1083 MTV truck" qty="2" />
+            <equipment equipment-object-id="3657" name="1-1/4 t truck M1151 - .50 Cal" qty="1" />
+            <equipment equipment-object-id="3658" name="1-1/4 t truck M1151 - M240" qty="4" />
+            <equipment equipment-object-id="3645" name="5.56mm M249 SAW" qty="6" />
+            <equipment equipment-object-id="3626" name="5.56mm M4 Carbine" qty="160" />
+            <equipment equipment-object-id="3627" name="5.56mm M4 Carbine - M320 GLM" qty="4" />
+          </equipment-list>
+          <ammo-list />
+          <can-bombard>no</can-bombard>
+          <comms-rating>100</comms-rating>/&gt;
+</force>
+        <force id="3777">
+          <name>WF - US - Inf Bn HQ</name>
+          <description />
+          <icon>
+            <background-color red="171" green="171" blue="50" />
+            <background-dark-color red="105" green="112" blue="44" />
+            <background-light-color red="232" green="235" blue="203" />
+            <designation-color red="0" green="0" blue="0" />
+            <symbol-color>black</symbol-color>
+            <military-symbol>22</military-symbol>
+            <picture-symbol>hq</picture-symbol>
+            <force-size-icon>battalion</force-size-icon>
+            <is-hq>yes</is-hq>
+          </icon>
+          <type>infantry</type>
+          <sub-type>Non-Armoured HQ</sub-type>
+          <size>battalion</size>
+          <combat-class>hq</combat-class>
+          <target-class>soft</target-class>
+          <infantry-value>0</infantry-value>
+          <recon-value>0</recon-value>
+          <engineering-value>0</engineering-value>
+          <move-type>wheeled</move-type>
+          <pers-qty>180</pers-qty>
+          <staff-capacity>6</staff-capacity>
+          <basics-qty>448.0</basics-qty>
+          <basics-consumption-rate-modifier>1.0</basics-consumption-rate-modifier>
+          <commander-rank>4</commander-rank>
+          <fuel-qty>0.0</fuel-qty>
+          <fuel-load>10.0</fuel-load>
+          <speed>
+            <max>40.0</max>
+            <normal>30.0</normal>
+          </speed>
+          <deployment-duration>
+            <deployed>00:05</deployed>
+            <dug-in>02:00</dug-in>
+            <entrenched>2:00:00</entrenched>
+            <fortified>1:00:00</fortified>
+          </deployment-duration>
+          <ready-to-fire-duration>00:00</ready-to-fire-duration>
+          <ready-to-bombard-duration>00:00</ready-to-bombard-duration>
+          <equipment-list>
+            <equipment equipment-object-id="3655" name="1-1/4 t truck M1151" qty="28" />
+            <equipment equipment-object-id="3657" name="1-1/4 t truck M1151 - .50 Cal" qty="3" />
+            <equipment equipment-object-id="3670" name="2.5 t M1081 LMTV truck" qty="4" />
+            <equipment equipment-object-id="3673" name="2.5 t M1081 LMTV truck - M240" qty="2" />
+            <equipment equipment-object-id="3661" name="5 t M1083 MTV truck" qty="1" />
+            <equipment equipment-object-id="3700" name="10 t M978A4 HEMTT tanker - M240" qty="2" />
+            <equipment equipment-object-id="3626" name="5.56mm M4 Carbine" qty="160" />
+            <equipment equipment-object-id="3627" name="5.56mm M4 Carbine - M320 GLM" qty="16" />
+            <equipment equipment-object-id="3621" name="M136 AT4" qty="8" />
+          </equipment-list>
+          <ammo-list />
+          <can-bombard>no</can-bombard>
+          <comms-rating>100</comms-rating>/&gt;
+</force>
+        <force id="3778">
+          <name>WF - US - Inf Div HQ</name>
+          <description />
+          <icon>
+            <background-color red="171" green="171" blue="50" />
+            <background-dark-color red="105" green="112" blue="44" />
+            <background-light-color red="232" green="235" blue="203" />
+            <designation-color red="0" green="0" blue="0" />
+            <symbol-color>black</symbol-color>
+            <military-symbol>22</military-symbol>
+            <picture-symbol>hq</picture-symbol>
+            <force-size-icon>division</force-size-icon>
+            <is-hq>yes</is-hq>
+          </icon>
+          <type>infantry</type>
+          <sub-type>Non-Armoured HQ</sub-type>
+          <size>division</size>
+          <combat-class>hq</combat-class>
+          <target-class>soft</target-class>
+          <infantry-value>0</infantry-value>
+          <recon-value>0</recon-value>
+          <engineering-value>0</engineering-value>
+          <move-type>wheeled</move-type>
+          <pers-qty>218</pers-qty>
+          <staff-capacity>12</staff-capacity>
+          <basics-qty>448.0</basics-qty>
+          <basics-consumption-rate-modifier>1.0</basics-consumption-rate-modifier>
+          <commander-rank>7</commander-rank>
+          <fuel-qty>0.0</fuel-qty>
+          <fuel-load>10.0</fuel-load>
+          <speed>
+            <max>60.0</max>
+            <normal>40.0</normal>
+          </speed>
+          <deployment-duration>
+            <deployed>00:05</deployed>
+            <dug-in>02:00</dug-in>
+            <entrenched>2:00:00</entrenched>
+            <fortified>1:00:00</fortified>
+          </deployment-duration>
+          <ready-to-fire-duration>00:00</ready-to-fire-duration>
+          <ready-to-bombard-duration>00:00</ready-to-bombard-duration>
+          <equipment-list>
+            <equipment equipment-object-id="3693" name="10 t M978A4 HEMTT" qty="3" />
+            <equipment equipment-object-id="3701" name="10 t M978A4 HEMTT- .50 cal" qty="1" />
+            <equipment equipment-object-id="3697" name="10 t M978A4 HEMTT tanker" qty="1" />
+            <equipment equipment-object-id="3700" name="10 t M978A4 HEMTT tanker - M240" qty="1" />
+            <equipment equipment-object-id="3655" name="1-1/4 t truck M1151" qty="27" />
+            <equipment equipment-object-id="3657" name="1-1/4 t truck M1151 - .50 Cal" qty="9" />
+            <equipment equipment-object-id="3658" name="1-1/4 t truck M1151 - M240" qty="3" />
+            <equipment equipment-object-id="3659" name="1-1/4 t truck M1151 - Mk19" qty="1" />
+            <equipment equipment-object-id="3670" name="2.5 t M1081 LMTV truck" qty="6" />
+            <equipment equipment-object-id="3672" name="2.5 t M1081 LMTV truck - .50 cal" qty="1" />
+            <equipment equipment-object-id="3673" name="2.5 t M1081 LMTV truck - M240" qty="1" />
+            <equipment equipment-object-id="3661" name="5 t M1083 MTV truck" qty="4" />
+            <equipment equipment-object-id="3665" name="5 t M1083 MTV truck - .50 cal" qty="1" />
+            <equipment equipment-object-id="3666" name="5 t M1083 MTV truck - M240" qty="1" />
+            <equipment equipment-object-id="3645" name="5.56mm M249 SAW" qty="20" />
+            <equipment equipment-object-id="3626" name="5.56mm M4 Carbine" qty="151" />
+            <equipment equipment-object-id="3627" name="5.56mm M4 Carbine - M320 GLM" qty="4" />
+          </equipment-list>
+          <ammo-list />
+          <can-bombard>no</can-bombard>
+          <comms-rating>100</comms-rating>/&gt;
+</force>
+        <force id="3779">
+          <name>WF - US - Inf Mtn Bn HQ</name>
+          <description />
+          <icon>
+            <background-color red="171" green="171" blue="50" />
+            <background-dark-color red="105" green="112" blue="44" />
+            <background-light-color red="232" green="235" blue="203" />
+            <designation-color red="0" green="0" blue="0" />
+            <symbol-color>black</symbol-color>
+            <military-symbol>25</military-symbol>
+            <picture-symbol>hq</picture-symbol>
+            <force-size-icon>battalion</force-size-icon>
+            <is-hq>yes</is-hq>
+          </icon>
+          <type>infantry</type>
+          <sub-type>Non-Armoured HQ</sub-type>
+          <size>battalion</size>
+          <combat-class>hq</combat-class>
+          <target-class>soft</target-class>
+          <infantry-value>0</infantry-value>
+          <recon-value>0</recon-value>
+          <engineering-value>0</engineering-value>
+          <move-type>wheeled</move-type>
+          <pers-qty>180</pers-qty>
+          <staff-capacity>6</staff-capacity>
+          <basics-qty>448.0</basics-qty>
+          <basics-consumption-rate-modifier>1.0</basics-consumption-rate-modifier>
+          <commander-rank>4</commander-rank>
+          <fuel-qty>0.0</fuel-qty>
+          <fuel-load>10.0</fuel-load>
+          <speed>
+            <max>40.0</max>
+            <normal>30.0</normal>
+          </speed>
+          <deployment-duration>
+            <deployed>00:05</deployed>
+            <dug-in>02:00</dug-in>
+            <entrenched>2:00:00</entrenched>
+            <fortified>1:00:00</fortified>
+          </deployment-duration>
+          <ready-to-fire-duration>00:00</ready-to-fire-duration>
+          <ready-to-bombard-duration>00:00</ready-to-bombard-duration>
+          <equipment-list>
+            <equipment equipment-object-id="3655" name="1-1/4 t truck M1151" qty="28" />
+            <equipment equipment-object-id="3657" name="1-1/4 t truck M1151 - .50 Cal" qty="3" />
+            <equipment equipment-object-id="3670" name="2.5 t M1081 LMTV truck" qty="4" />
+            <equipment equipment-object-id="3673" name="2.5 t M1081 LMTV truck - M240" qty="2" />
+            <equipment equipment-object-id="3661" name="5 t M1083 MTV truck" qty="1" />
+            <equipment equipment-object-id="3700" name="10 t M978A4 HEMTT tanker - M240" qty="2" />
+            <equipment equipment-object-id="3626" name="5.56mm M4 Carbine" qty="160" />
+            <equipment equipment-object-id="3627" name="5.56mm M4 Carbine - M320 GLM" qty="16" />
+            <equipment equipment-object-id="3621" name="M136 AT4" qty="8" />
+          </equipment-list>
+          <ammo-list />
+          <can-bombard>no</can-bombard>
+          <comms-rating>100</comms-rating>/&gt;
+</force>
+        <force id="3780">
+          <name>WF - US - Mtn Div HQ</name>
+          <description />
+          <icon>
+            <background-color red="171" green="171" blue="50" />
+            <background-dark-color red="105" green="112" blue="44" />
+            <background-light-color red="232" green="235" blue="203" />
+            <designation-color red="0" green="0" blue="0" />
+            <symbol-color>black</symbol-color>
+            <military-symbol>25</military-symbol>
+            <picture-symbol>hq</picture-symbol>
+            <force-size-icon>division</force-size-icon>
+            <is-hq>yes</is-hq>
+          </icon>
+          <type>infantry</type>
+          <sub-type>Non-Armoured HQ</sub-type>
+          <size>division</size>
+          <combat-class>hq</combat-class>
+          <target-class>soft</target-class>
+          <infantry-value>0</infantry-value>
+          <recon-value>0</recon-value>
+          <engineering-value>0</engineering-value>
+          <move-type>wheeled</move-type>
+          <pers-qty>218</pers-qty>
+          <staff-capacity>12</staff-capacity>
+          <basics-qty>448.0</basics-qty>
+          <basics-consumption-rate-modifier>1.0</basics-consumption-rate-modifier>
+          <commander-rank>7</commander-rank>
+          <fuel-qty>0.0</fuel-qty>
+          <fuel-load>10.0</fuel-load>
+          <speed>
+            <max>60.0</max>
+            <normal>40.0</normal>
+          </speed>
+          <deployment-duration>
+            <deployed>00:05</deployed>
+            <dug-in>02:00</dug-in>
+            <entrenched>2:00:00</entrenched>
+            <fortified>1:00:00</fortified>
+          </deployment-duration>
+          <ready-to-fire-duration>00:00</ready-to-fire-duration>
+          <ready-to-bombard-duration>00:00</ready-to-bombard-duration>
+          <equipment-list>
+            <equipment equipment-object-id="3693" name="10 t M978A4 HEMTT" qty="3" />
+            <equipment equipment-object-id="3701" name="10 t M978A4 HEMTT- .50 cal" qty="1" />
+            <equipment equipment-object-id="3697" name="10 t M978A4 HEMTT tanker" qty="1" />
+            <equipment equipment-object-id="3700" name="10 t M978A4 HEMTT tanker - M240" qty="1" />
+            <equipment equipment-object-id="3655" name="1-1/4 t truck M1151" qty="27" />
+            <equipment equipment-object-id="3657" name="1-1/4 t truck M1151 - .50 Cal" qty="9" />
+            <equipment equipment-object-id="3658" name="1-1/4 t truck M1151 - M240" qty="3" />
+            <equipment equipment-object-id="3659" name="1-1/4 t truck M1151 - Mk19" qty="1" />
+            <equipment equipment-object-id="3670" name="2.5 t M1081 LMTV truck" qty="6" />
+            <equipment equipment-object-id="3672" name="2.5 t M1081 LMTV truck - .50 cal" qty="1" />
+            <equipment equipment-object-id="3673" name="2.5 t M1081 LMTV truck - M240" qty="1" />
+            <equipment equipment-object-id="3661" name="5 t M1083 MTV truck" qty="4" />
+            <equipment equipment-object-id="3665" name="5 t M1083 MTV truck - .50 cal" qty="1" />
+            <equipment equipment-object-id="3666" name="5 t M1083 MTV truck - M240" qty="1" />
+            <equipment equipment-object-id="3645" name="5.56mm M249 SAW" qty="20" />
+            <equipment equipment-object-id="3626" name="5.56mm M4 Carbine" qty="151" />
+            <equipment equipment-object-id="3627" name="5.56mm M4 Carbine - M320 GLM" qty="4" />
+          </equipment-list>
+          <ammo-list />
+          <can-bombard>no</can-bombard>
+          <comms-rating>100</comms-rating>/&gt;
+</force>
+        <force id="3781">
+          <name>WF - US - Calvary Sqn HQ</name>
+          <description />
+          <icon>
+            <background-color red="171" green="171" blue="50" />
+            <background-dark-color red="105" green="112" blue="44" />
+            <background-light-color red="232" green="235" blue="203" />
+            <designation-color red="0" green="0" blue="0" />
+            <symbol-color>black</symbol-color>
+            <military-symbol>3</military-symbol>
+            <picture-symbol>hq</picture-symbol>
+            <force-size-icon>battalion</force-size-icon>
+            <is-hq>yes</is-hq>
+          </icon>
+          <type>infantry</type>
+          <sub-type>Non-Armoured HQ</sub-type>
+          <size>battalion</size>
+          <combat-class>hq</combat-class>
+          <target-class>soft</target-class>
+          <infantry-value>0</infantry-value>
+          <recon-value>0</recon-value>
+          <engineering-value>0</engineering-value>
+          <move-type>wheeled</move-type>
+          <pers-qty>138</pers-qty>
+          <staff-capacity>6</staff-capacity>
+          <basics-qty>448.0</basics-qty>
+          <basics-consumption-rate-modifier>1.0</basics-consumption-rate-modifier>
+          <commander-rank>4</commander-rank>
+          <fuel-qty>0.0</fuel-qty>
+          <fuel-load>10.0</fuel-load>
+          <speed>
+            <max>60.0</max>
+            <normal>40.0</normal>
+          </speed>
+          <deployment-duration>
+            <deployed>00:05</deployed>
+            <dug-in>02:00</dug-in>
+            <entrenched>2:00:00</entrenched>
+            <fortified>1:00:00</fortified>
+          </deployment-duration>
+          <ready-to-fire-duration>00:00</ready-to-fire-duration>
+          <ready-to-bombard-duration>00:00</ready-to-bombard-duration>
+          <equipment-list>
+            <equipment equipment-object-id="3655" name="1-1/4 t truck M1151" qty="26" />
+            <equipment equipment-object-id="3657" name="1-1/4 t truck M1151 - .50 Cal" qty="6" />
+            <equipment equipment-object-id="3670" name="2.5 t M1081 LMTV truck" qty="1" />
+            <equipment equipment-object-id="3661" name="5 t M1083 MTV truck" qty="3" />
+            <equipment equipment-object-id="3645" name="5.56mm M249 SAW" qty="7" />
+            <equipment equipment-object-id="3626" name="5.56mm M4 Carbine" qty="119" />
+            <equipment equipment-object-id="3627" name="5.56mm M4 Carbine - M320 GLM" qty="8" />
+          </equipment-list>
+          <ammo-list />
+          <can-bombard>no</can-bombard>
+          <comms-rating>100</comms-rating>/&gt;
+</force>
+        <force id="3782">
+          <name>WF - US - SBCT HQ</name>
+          <description />
+          <icon>
+            <background-color red="171" green="171" blue="50" />
+            <background-dark-color red="105" green="112" blue="44" />
+            <background-light-color red="232" green="235" blue="203" />
+            <designation-color red="0" green="0" blue="0" />
+            <symbol-color>black</symbol-color>
+            <military-symbol>6</military-symbol>
+            <picture-symbol>hq</picture-symbol>
+            <force-size-icon>brigade</force-size-icon>
+            <is-hq>yes</is-hq>
+          </icon>
+          <type>infantry</type>
+          <sub-type>Non-Armoured HQ</sub-type>
+          <size>brigade</size>
+          <combat-class>hq</combat-class>
+          <target-class>mixed</target-class>
+          <infantry-value>0</infantry-value>
+          <recon-value>0</recon-value>
+          <engineering-value>0</engineering-value>
+          <move-type>wheeled</move-type>
+          <pers-qty>224</pers-qty>
+          <staff-capacity>9</staff-capacity>
+          <basics-qty>448.0</basics-qty>
+          <basics-consumption-rate-modifier>1.0</basics-consumption-rate-modifier>
+          <commander-rank>5</commander-rank>
+          <fuel-qty>0.0</fuel-qty>
+          <fuel-load>10.0</fuel-load>
+          <speed>
+            <max>60.0</max>
+            <normal>40.0</normal>
+          </speed>
+          <deployment-duration>
+            <deployed>00:05</deployed>
+            <dug-in>02:00</dug-in>
+            <entrenched>2:00:00</entrenched>
+            <fortified>1:00:00</fortified>
+          </deployment-duration>
+          <ready-to-fire-duration>00:00</ready-to-fire-duration>
+          <ready-to-bombard-duration>00:00</ready-to-bombard-duration>
+          <equipment-list>
+            <equipment equipment-object-id="3655" name="1-1/4 t truck M1151" qty="37" />
+            <equipment equipment-object-id="3657" name="1-1/4 t truck M1151 - .50 Cal" qty="7" />
+            <equipment equipment-object-id="3659" name="1-1/4 t truck M1151 - Mk19" qty="7" />
+            <equipment equipment-object-id="3661" name="5 t M1083 MTV truck" qty="6" />
+            <equipment equipment-object-id="3710" name="M1126 ICV - 50 cal MG" qty="4" />
+            <equipment equipment-object-id="3645" name="5.56mm M249 SAW" qty="22" />
+            <equipment equipment-object-id="3626" name="5.56mm M4 Carbine" qty="178" />
+            <equipment equipment-object-id="3627" name="5.56mm M4 Carbine - M320 GLM" qty="18" />
+          </equipment-list>
+          <ammo-list />
+          <can-bombard>no</can-bombard>
+          <comms-rating>100</comms-rating>/&gt;
+</force>
+        <force id="3783">
+          <name>WF - US - Str Eng Bn HQ</name>
+          <description />
+          <icon>
+            <background-color red="171" green="171" blue="50" />
+            <background-dark-color red="105" green="112" blue="44" />
+            <background-light-color red="232" green="235" blue="203" />
+            <designation-color red="0" green="0" blue="0" />
+            <symbol-color>black</symbol-color>
+            <military-symbol>40</military-symbol>
+            <picture-symbol>hq</picture-symbol>
+            <force-size-icon>battalion</force-size-icon>
+            <is-hq>yes</is-hq>
+          </icon>
+          <type>infantry</type>
+          <sub-type>Non-Armoured HQ</sub-type>
+          <size>battalion</size>
+          <combat-class>hq</combat-class>
+          <target-class>mixed</target-class>
+          <infantry-value>0</infantry-value>
+          <recon-value>0</recon-value>
+          <engineering-value>0</engineering-value>
+          <move-type>wheeled</move-type>
+          <pers-qty>117</pers-qty>
+          <staff-capacity>6</staff-capacity>
+          <basics-qty>448.0</basics-qty>
+          <basics-consumption-rate-modifier>1.0</basics-consumption-rate-modifier>
+          <commander-rank>4</commander-rank>
+          <fuel-qty>0.0</fuel-qty>
+          <fuel-load>10.0</fuel-load>
+          <speed>
+            <max>60.0</max>
+            <normal>40.0 </normal>
+          </speed>
+          <deployment-duration>
+            <deployed>00:05</deployed>
+            <dug-in>02:00</dug-in>
+            <entrenched>2:00:00</entrenched>
+            <fortified>1:00:00</fortified>
+          </deployment-duration>
+          <ready-to-fire-duration>00:00</ready-to-fire-duration>
+          <ready-to-bombard-duration>00:00</ready-to-bombard-duration>
+          <equipment-list>
+            <equipment equipment-object-id="3655" name="1-1/4 t truck M1151" qty="2" />
+            <equipment equipment-object-id="3659" name="1-1/4 t truck M1151 - Mk19" qty="3" />
+            <equipment equipment-object-id="3693" name="10 t M978A4 HEMTT" qty="6" />
+            <equipment equipment-object-id="3661" name="5 t M1083 MTV truck" qty="2" />
+            <equipment equipment-object-id="3710" name="M1126 ICV - 50 cal MG" qty="10" />
+            <equipment equipment-object-id="3645" name="5.56mm M249 SAW" qty="18" />
+            <equipment equipment-object-id="3626" name="5.56mm M4 Carbine" qty="72" />
+            <equipment equipment-object-id="3627" name="5.56mm M4 Carbine - M320 GLM" qty="22" />
+            <equipment equipment-object-id="3630" name="7.62mm M240L LMG" qty="9" />
+            <equipment equipment-object-id="3621" name="M136 AT4" qty="8" />
+          </equipment-list>
+          <ammo-list />
+          <can-bombard>no</can-bombard>
+          <comms-rating>100</comms-rating>/&gt;
+</force>
+        <force id="3784">
+          <name>WF - US - Str Inf Bn HQ</name>
+          <description />
+          <icon>
+            <background-color red="171" green="171" blue="50" />
+            <background-dark-color red="105" green="112" blue="44" />
+            <background-light-color red="232" green="235" blue="203" />
+            <designation-color red="0" green="0" blue="0" />
+            <symbol-color>black</symbol-color>
+            <military-symbol>22</military-symbol>
+            <picture-symbol>infantry</picture-symbol>
+            <force-size-icon>company</force-size-icon>
+            <is-hq>yes</is-hq>
+          </icon>
+          <type>infantry</type>
+          <sub-type>Non-Armoured HQ</sub-type>
+          <size>battalion</size>
+          <combat-class>hq</combat-class>
+          <target-class>mixed</target-class>
+          <infantry-value>0</infantry-value>
+          <recon-value>0</recon-value>
+          <engineering-value>0</engineering-value>
+          <move-type>wheeled</move-type>
+          <pers-qty>154</pers-qty>
+          <staff-capacity>6</staff-capacity>
+          <basics-qty>448.0</basics-qty>
+          <basics-consumption-rate-modifier>1.0</basics-consumption-rate-modifier>
+          <commander-rank>4</commander-rank>
+          <fuel-qty>0.0</fuel-qty>
+          <fuel-load>10.0</fuel-load>
+          <speed>
+            <max>60.0</max>
+            <normal>40.0</normal>
+          </speed>
+          <deployment-duration>
+            <deployed>00:05</deployed>
+            <dug-in>02:00</dug-in>
+            <entrenched>2:00:00</entrenched>
+            <fortified>1:00:00</fortified>
+          </deployment-duration>
+          <ready-to-fire-duration>00:00</ready-to-fire-duration>
+          <ready-to-bombard-duration>00:00</ready-to-bombard-duration>
+          <equipment-list>
+            <equipment equipment-object-id="3710" name="M1126 ICV - 50 cal MG" qty="8" />
+            <equipment equipment-object-id="3655" name="1-1/4 t truck M1151" qty="19" />
+            <equipment equipment-object-id="3661" name="5 t M1083 MTV truck" qty="5" />
+            <equipment equipment-object-id="3626" name="5.56mm M4 Carbine" qty="150" />
+            <equipment equipment-object-id="3627" name="5.56mm M4 Carbine - M320 GLM" qty="12" />
+          </equipment-list>
+          <ammo-list />
+          <can-bombard>no</can-bombard>
+          <comms-rating>100</comms-rating>/&gt;
+</force>
+        <force id="3785">
+          <name>WF - US - Str Recon Sqn HQ</name>
+          <description />
+          <icon>
+            <background-color red="171" green="171" blue="50" />
+            <background-dark-color red="105" green="112" blue="44" />
+            <background-light-color red="232" green="235" blue="203" />
+            <designation-color red="0" green="0" blue="0" />
+            <symbol-color>black</symbol-color>
+            <military-symbol>5</military-symbol>
+            <picture-symbol>hq</picture-symbol>
+            <force-size-icon>battalion</force-size-icon>
+            <is-hq>yes</is-hq>
+          </icon>
+          <type>infantry</type>
+          <sub-type>Non-Armoured HQ</sub-type>
+          <size>battalion</size>
+          <combat-class>hq</combat-class>
+          <target-class>mixed</target-class>
+          <infantry-value>0</infantry-value>
+          <recon-value>0</recon-value>
+          <engineering-value>0</engineering-value>
+          <move-type>wheeled</move-type>
+          <pers-qty>140</pers-qty>
+          <staff-capacity>6</staff-capacity>
+          <basics-qty>448.0</basics-qty>
+          <basics-consumption-rate-modifier>1.0</basics-consumption-rate-modifier>
+          <commander-rank>4</commander-rank>
+          <fuel-qty>0.0</fuel-qty>
+          <fuel-load>10.0</fuel-load>
+          <speed>
+            <max>60.0</max>
+            <normal>40.0</normal>
+          </speed>
+          <deployment-duration>
+            <deployed>00:05</deployed>
+            <dug-in>02:00</dug-in>
+            <entrenched>2:00:00</entrenched>
+            <fortified>1:00:00</fortified>
+          </deployment-duration>
+          <ready-to-fire-duration>00:00</ready-to-fire-duration>
+          <ready-to-bombard-duration>00:00</ready-to-bombard-duration>
+          <equipment-list>
+            <equipment equipment-object-id="3655" name="1-1/4 t truck M1151" qty="15" />
+            <equipment equipment-object-id="3657" name="1-1/4 t truck M1151 - .50 Cal" qty="3" />
+            <equipment equipment-object-id="3658" name="1-1/4 t truck M1151 - M240" qty="4" />
+            <equipment equipment-object-id="3661" name="5 t M1083 MTV truck" qty="4" />
+            <equipment equipment-object-id="3666" name="5 t M1083 MTV truck - M240" qty="2" />
+            <equipment equipment-object-id="3710" name="M1126 ICV - 50 cal MG" qty="12" />
+            <equipment equipment-object-id="3626" name="5.56mm M4 Carbine" qty="116" />
+            <equipment equipment-object-id="3627" name="5.56mm M4 Carbine - M320 GLM" qty="10" />
+          </equipment-list>
+          <ammo-list />
+          <can-bombard>no</can-bombard>
+          <comms-rating>100</comms-rating>/&gt;
+</force>
+        <force id="3786">
+          <name>WF - US - 105/155mm Fires Bn</name>
+          <description />
+          <icon>
+            <background-color red="171" green="171" blue="50" />
+            <background-dark-color red="105" green="112" blue="44" />
+            <background-light-color red="232" green="235" blue="203" />
+            <designation-color red="0" green="0" blue="0" />
+            <symbol-color>black</symbol-color>
+            <military-symbol>8</military-symbol>
+            <picture-symbol>artillery</picture-symbol>
+            <force-size-icon>battalion</force-size-icon>
+            <is-hq>no</is-hq>
+          </icon>
+          <type>artillery</type>
+          <sub-type>Howitzer</sub-type>
+          <size>battalion</size>
+          <combat-class>support</combat-class>
+          <target-class>soft</target-class>
+          <infantry-value>0</infantry-value>
+          <recon-value>0</recon-value>
+          <engineering-value>0</engineering-value>
+          <move-type>wheeled</move-type>
+          <pers-qty>388</pers-qty>
+          <staff-capacity>0</staff-capacity>
+          <basics-qty>448.0</basics-qty>
+          <basics-consumption-rate-modifier>1.0</basics-consumption-rate-modifier>
+          <commander-rank>4</commander-rank>
+          <fuel-qty>0.0</fuel-qty>
+          <fuel-load>10.0</fuel-load>
+          <speed>
+            <max>30.0</max>
+            <normal>20.0</normal>
+          </speed>
+          <deployment-duration>
+            <deployed>00:05</deployed>
+            <dug-in>02:00</dug-in>
+            <entrenched>2:00:00</entrenched>
+            <fortified>1:00:00</fortified>
+          </deployment-duration>
+          <ready-to-fire-duration>00:00</ready-to-fire-duration>
+          <ready-to-bombard-duration>00:00</ready-to-bombard-duration>
+          <equipment-list>
+            <equipment equipment-object-id="3655" name="1-1/4 t truck M1151" qty="52" />
+            <equipment equipment-object-id="3657" name="1-1/4 t truck M1151 - .50 Cal" qty="20" />
+            <equipment equipment-object-id="3658" name="1-1/4 t truck M1151 - M240" qty="23" />
+            <equipment equipment-object-id="3659" name="1-1/4 t truck M1151 - Mk19" qty="1" />
+            <equipment equipment-object-id="3670" name="2.5 t M1081 LMTV truck" qty="2" />
+            <equipment equipment-object-id="3672" name="2.5 t M1081 LMTV truck - .50 cal" qty="1" />
+            <equipment equipment-object-id="3674" name="2.5 t M1081 LMTV truck - Mk19" qty="1" />
+            <equipment equipment-object-id="3661" name="5 t M1083 MTV truck" qty="8" />
+            <equipment equipment-object-id="3665" name="5 t M1083 MTV truck - .50 cal" qty="2" />
+            <equipment equipment-object-id="3666" name="5 t M1083 MTV truck - M240" qty="4" />
+            <equipment equipment-object-id="3645" name="5.56mm M249 SAW" qty="1" />
+            <equipment equipment-object-id="3626" name="5.56mm M4 Carbine" qty="335" />
+            <equipment equipment-object-id="3627" name="5.56mm M4 Carbine - M320 GLM" qty="54" />
+            <equipment equipment-object-id="3628" name="105mm M119A3 how" qty="12" />
+            <equipment equipment-object-id="3643" name="155mm M777 gun" qty="6" />
+          </equipment-list>
+          <ammo-list />
+          <can-bombard>yes</can-bombard>
+          <comms-rating>100</comms-rating>/&gt;
+</force>
+        <force id="3787">
+          <name>WF - US - 120mm Mor Plt / CAB</name>
+          <description />
+          <icon>
+            <background-color red="171" green="171" blue="50" />
+            <background-dark-color red="105" green="112" blue="44" />
+            <background-light-color red="232" green="235" blue="203" />
+            <designation-color red="0" green="0" blue="0" />
+            <symbol-color>black</symbol-color>
+            <military-symbol>10</military-symbol>
+            <picture-symbol>sp-artillery</picture-symbol>
+            <force-size-icon>platoon</force-size-icon>
+            <is-hq>no</is-hq>
+          </icon>
+          <type>artillery</type>
+          <sub-type>SP Mortar</sub-type>
+          <size>platoon</size>
+          <combat-class>support</combat-class>
+          <target-class>mixed</target-class>
+          <infantry-value>0</infantry-value>
+          <recon-value>0</recon-value>
+          <engineering-value>0</engineering-value>
+          <move-type>tracked</move-type>
+          <pers-qty>24</pers-qty>
+          <staff-capacity>0</staff-capacity>
+          <basics-qty>448.0</basics-qty>
+          <basics-consumption-rate-modifier>1.0</basics-consumption-rate-modifier>
+          <commander-rank>1</commander-rank>
+          <fuel-qty>0.0</fuel-qty>
+          <fuel-load>10.0</fuel-load>
+          <speed>
+            <max>60.0</max>
+            <normal>40.0</normal>
+          </speed>
+          <deployment-duration>
+            <deployed>00:05</deployed>
+            <dug-in>02:00</dug-in>
+            <entrenched>2:00:00</entrenched>
+            <fortified>1:00:00</fortified>
+          </deployment-duration>
+          <ready-to-fire-duration>00:00</ready-to-fire-duration>
+          <ready-to-bombard-duration>00:00</ready-to-bombard-duration>
+          <equipment-list>
+            <equipment equipment-object-id="3655" name="1-1/4 t truck M1151" qty="1" />
+            <equipment equipment-object-id="3703" name="M1064A3 MC - 120mm mortar" qty="4" />
+            <equipment equipment-object-id="3707" name="M1068A3 CPC" qty="1" />
+            <equipment equipment-object-id="3626" name="5.56mm M4 Carbine" qty="24" />
+          </equipment-list>
+          <ammo-list />
+          <can-bombard>yes</can-bombard>
+          <comms-rating>100</comms-rating>/&gt;
+</force>
+        <force id="3788">
+          <name>WF - US - 120mm Mor Plt / Str Inf Bn</name>
+          <description />
+          <icon>
+            <background-color red="171" green="171" blue="50" />
+            <background-dark-color red="105" green="112" blue="44" />
+            <background-light-color red="232" green="235" blue="203" />
+            <designation-color red="0" green="0" blue="0" />
+            <symbol-color>black</symbol-color>
+            <military-symbol>9</military-symbol>
+            <picture-symbol>artillery</picture-symbol>
+            <force-size-icon>platoon</force-size-icon>
+            <is-hq>no</is-hq>
+          </icon>
+          <type>artillery</type>
+          <sub-type>Mot Mortar</sub-type>
+          <size>platoon</size>
+          <combat-class>support</combat-class>
+          <target-class>mixed</target-class>
+          <infantry-value>0</infantry-value>
+          <recon-value>0</recon-value>
+          <engineering-value>0</engineering-value>
+          <move-type>wheeled</move-type>
+          <pers-qty>27</pers-qty>
+          <staff-capacity>0</staff-capacity>
+          <basics-qty>448.0</basics-qty>
+          <basics-consumption-rate-modifier>1.0</basics-consumption-rate-modifier>
+          <commander-rank>1</commander-rank>
+          <fuel-qty>0.0</fuel-qty>
+          <fuel-load>10.0</fuel-load>
+          <speed>
+            <max>60.0</max>
+            <normal>40.0</normal>
+          </speed>
+          <deployment-duration>
+            <deployed>00:05</deployed>
+            <dug-in>02:00</dug-in>
+            <entrenched>2:00:00</entrenched>
+            <fortified>1:00:00</fortified>
+          </deployment-duration>
+          <ready-to-fire-duration>00:00</ready-to-fire-duration>
+          <ready-to-bombard-duration>00:00</ready-to-bombard-duration>
+          <equipment-list>
+            <equipment equipment-object-id="3655" name="1-1/4 t truck M1151" qty="2" />
+            <equipment equipment-object-id="3713" name="M1129 MC - 120mm mortar" qty="4" />
+            <equipment equipment-object-id="3626" name="5.56mm M4 Carbine" qty="27" />
+            <equipment equipment-object-id="3624" name="81mm M252A1 mortar" qty="4" />
+          </equipment-list>
+          <ammo-list />
+          <can-bombard>yes</can-bombard>
+          <comms-rating>100</comms-rating>/&gt;
+</force>
+        <force id="3789">
+          <name>WF - US - 155mm Fires Str Bn</name>
+          <description />
+          <icon>
+            <background-color red="171" green="171" blue="50" />
+            <background-dark-color red="105" green="112" blue="44" />
+            <background-light-color red="232" green="235" blue="203" />
+            <designation-color red="0" green="0" blue="0" />
+            <symbol-color>black</symbol-color>
+            <military-symbol>9</military-symbol>
+            <picture-symbol>artillery</picture-symbol>
+            <force-size-icon>battalion</force-size-icon>
+            <is-hq>no</is-hq>
+          </icon>
+          <type>artillery</type>
+          <sub-type>Mot Howitzer</sub-type>
+          <size>battalion</size>
+          <combat-class>support</combat-class>
+          <target-class>mixed</target-class>
+          <infantry-value>0</infantry-value>
+          <recon-value>0</recon-value>
+          <engineering-value>0</engineering-value>
+          <move-type>wheeled</move-type>
+          <pers-qty>400</pers-qty>
+          <staff-capacity>0</staff-capacity>
+          <basics-qty>448.0</basics-qty>
+          <basics-consumption-rate-modifier>1.0</basics-consumption-rate-modifier>
+          <commander-rank>4</commander-rank>
+          <fuel-qty>0.0</fuel-qty>
+          <fuel-load>10.0</fuel-load>
+          <speed>
+            <max>60.0</max>
+            <normal>40.0</normal>
+          </speed>
+          <deployment-duration>
+            <deployed>00:05</deployed>
+            <dug-in>02:00</dug-in>
+            <entrenched>2:00:00</entrenched>
+            <fortified>1:00:00</fortified>
+          </deployment-duration>
+          <ready-to-fire-duration>00:00</ready-to-fire-duration>
+          <ready-to-bombard-duration>00:00</ready-to-bombard-duration>
+          <equipment-list>
+            <equipment equipment-object-id="3655" name="1-1/4 t truck M1151" qty="23" />
+            <equipment equipment-object-id="3657" name="1-1/4 t truck M1151 - .50 Cal" qty="16" />
+            <equipment equipment-object-id="3658" name="1-1/4 t truck M1151 - M240" qty="14" />
+            <equipment equipment-object-id="3659" name="1-1/4 t truck M1151 - Mk19" qty="12" />
+            <equipment equipment-object-id="3661" name="5 t M1083 MTV truck" qty="3" />
+            <equipment equipment-object-id="3665" name="5 t M1083 MTV truck - .50 cal" qty="9" />
+            <equipment equipment-object-id="3666" name="5 t M1083 MTV truck - M240" qty="12" />
+            <equipment equipment-object-id="3667" name="5 t M1083 MTV truck - Mk19" qty="10" />
+            <equipment equipment-object-id="3710" name="M1126 ICV - 50 cal MG" qty="1" />
+            <equipment equipment-object-id="3643" name="155mm M777 gun" qty="18" />
+            <equipment equipment-object-id="3645" name="5.56mm M249 SAW" qty="2" />
+            <equipment equipment-object-id="3626" name="5.56mm M4 Carbine" qty="346" />
+            <equipment equipment-object-id="3627" name="5.56mm M4 Carbine - M320 GLM" qty="43" />
+          </equipment-list>
+          <ammo-list />
+          <can-bombard>yes</can-bombard>
+          <comms-rating>100</comms-rating>/&gt;
+</force>
+        <force id="3790">
+          <name>WF - US - 155SP Fires Bn</name>
+          <description />
+          <icon>
+            <background-color red="171" green="171" blue="50" />
+            <background-dark-color red="105" green="112" blue="44" />
+            <background-light-color red="232" green="235" blue="203" />
+            <designation-color red="0" green="0" blue="0" />
+            <symbol-color>black</symbol-color>
+            <military-symbol>10</military-symbol>
+            <picture-symbol>sp-artillery</picture-symbol>
+            <force-size-icon>battalion</force-size-icon>
+            <is-hq>no</is-hq>
+          </icon>
+          <type>artillery</type>
+          <sub-type>SP Howitzer</sub-type>
+          <size>battalion</size>
+          <combat-class>support</combat-class>
+          <target-class>hard</target-class>
+          <infantry-value>0</infantry-value>
+          <recon-value>0</recon-value>
+          <engineering-value>0</engineering-value>
+          <move-type>tracked</move-type>
+          <pers-qty>420</pers-qty>
+          <staff-capacity>0</staff-capacity>
+          <basics-qty>448.0</basics-qty>
+          <basics-consumption-rate-modifier>1.0</basics-consumption-rate-modifier>
+          <commander-rank>4</commander-rank>
+          <fuel-qty>0.0</fuel-qty>
+          <fuel-load>10.0</fuel-load>
+          <speed>
+            <max>60.0</max>
+            <normal>40.0</normal>
+          </speed>
+          <deployment-duration>
+            <deployed>00:05</deployed>
+            <dug-in>02:00</dug-in>
+            <entrenched>2:00:00</entrenched>
+            <fortified>1:00:00</fortified>
+          </deployment-duration>
+          <ready-to-fire-duration>00:00</ready-to-fire-duration>
+          <ready-to-bombard-duration>00:00</ready-to-bombard-duration>
+          <equipment-list>
+            <equipment equipment-object-id="3693" name="10 t M978A4 HEMTT" qty="6" />
+            <equipment equipment-object-id="3655" name="1-1/4 t truck M1151" qty="55" />
+            <equipment equipment-object-id="3670" name="2.5 t M1081 LMTV truck" qty="3" />
+            <equipment equipment-object-id="3661" name="5 t M1083 MTV truck" qty="6" />
+            <equipment equipment-object-id="3707" name="M1068A3 CPC" qty="9" />
+            <equipment equipment-object-id="3689" name="M109A6 Paladin - 155mm" qty="24" />
+            <equipment equipment-object-id="3691" name="M992A2 FAASV - Cargo Carrier" qty="24" />
+            <equipment equipment-object-id="3651" name="40mm Mk 19" qty="32" />
+            <equipment equipment-object-id="3645" name="5.56mm M249 SAW" qty="3" />
+            <equipment equipment-object-id="3626" name="5.56mm M4 Carbine" qty="383" />
+            <equipment equipment-object-id="3627" name="5.56mm M4 Carbine - M320 GLM" qty="31" />
+            <equipment equipment-object-id="3639" name="7.62mm M240B MMG" qty="20" />
+          </equipment-list>
+          <ammo-list />
+          <can-bombard>yes</can-bombard>
+          <comms-rating>100</comms-rating>/&gt;
+</force>
+        <force id="3791">
+          <name>WF - US - 277mm M142 HIMARS Bn</name>
+          <description />
+          <icon>
+            <background-color red="171" green="171" blue="50" />
+            <background-dark-color red="105" green="112" blue="44" />
+            <background-light-color red="232" green="235" blue="203" />
+            <designation-color red="0" green="0" blue="0" />
+            <symbol-color>black</symbol-color>
+            <military-symbol>14</military-symbol>
+            <picture-symbol>rockets</picture-symbol>
+            <force-size-icon>battalion</force-size-icon>
+            <is-hq>no</is-hq>
+          </icon>
+          <type>artillery</type>
+          <sub-type>Mot RL</sub-type>
+          <size>battalion</size>
+          <combat-class>support</combat-class>
+          <target-class>soft</target-class>
+          <infantry-value>0</infantry-value>
+          <recon-value>0</recon-value>
+          <engineering-value>0</engineering-value>
+          <move-type>wheeled</move-type>
+          <pers-qty>400</pers-qty>
+          <staff-capacity>0</staff-capacity>
+          <basics-qty>448.0</basics-qty>
+          <basics-consumption-rate-modifier>1.0</basics-consumption-rate-modifier>
+          <commander-rank>4</commander-rank>
+          <fuel-qty>0.0</fuel-qty>
+          <fuel-load>10.0</fuel-load>
+          <speed>
+            <max>60.0</max>
+            <normal>40.0</normal>
+          </speed>
+          <deployment-duration>
+            <deployed>00:05</deployed>
+            <dug-in>02:00</dug-in>
+            <entrenched>2:00:00</entrenched>
+            <fortified>1:00:00</fortified>
+          </deployment-duration>
+          <ready-to-fire-duration>00:00</ready-to-fire-duration>
+          <ready-to-bombard-duration>00:15</ready-to-bombard-duration>
+          <equipment-list>
+            <equipment equipment-object-id="3655" name="1-1/4 t truck M1151" qty="23" />
+            <equipment equipment-object-id="3657" name="1-1/4 t truck M1151 - .50 Cal" qty="16" />
+            <equipment equipment-object-id="3658" name="1-1/4 t truck M1151 - M240" qty="14" />
+            <equipment equipment-object-id="3659" name="1-1/4 t truck M1151 - Mk19" qty="12" />
+            <equipment equipment-object-id="3661" name="5 t M1083 MTV truck" qty="3" />
+            <equipment equipment-object-id="3665" name="5 t M1083 MTV truck - .50 cal" qty="9" />
+            <equipment equipment-object-id="3666" name="5 t M1083 MTV truck - M240" qty="12" />
+            <equipment equipment-object-id="3667" name="5 t M1083 MTV truck - Mk19" qty="10" />
+            <equipment equipment-object-id="3710" name="M1126 ICV - 50 cal MG" qty="1" />
+            <equipment equipment-object-id="3675" name="M142 HIMARS" qty="12" />
+            <equipment equipment-object-id="3645" name="5.56mm M249 SAW" qty="2" />
+            <equipment equipment-object-id="3626" name="5.56mm M4 Carbine" qty="346" />
+            <equipment equipment-object-id="3627" name="5.56mm M4 Carbine - M320 GLM" qty="43" />
+          </equipment-list>
+          <ammo-list />
+          <can-bombard>yes</can-bombard>
+          <comms-rating>100</comms-rating>/&gt;
+</force>
+        <force id="3792">
+          <name>WF - US - 277mm M270 MLRS Bn</name>
+          <description />
+          <icon>
+            <background-color red="171" green="171" blue="50" />
+            <background-dark-color red="105" green="112" blue="44" />
+            <background-light-color red="232" green="235" blue="203" />
+            <designation-color red="0" green="0" blue="0" />
+            <symbol-color>black</symbol-color>
+            <military-symbol>15</military-symbol>
+            <picture-symbol>rockets</picture-symbol>
+            <force-size-icon>battalion</force-size-icon>
+            <is-hq>no</is-hq>
+          </icon>
+          <type>artillery</type>
+          <sub-type>SP RL</sub-type>
+          <size>battalion</size>
+          <combat-class>support</combat-class>
+          <target-class>mixed</target-class>
+          <infantry-value>0</infantry-value>
+          <recon-value>0</recon-value>
+          <engineering-value>0</engineering-value>
+          <move-type>tracked</move-type>
+          <pers-qty>420</pers-qty>
+          <staff-capacity>0</staff-capacity>
+          <basics-qty>448.0</basics-qty>
+          <basics-consumption-rate-modifier>1.0</basics-consumption-rate-modifier>
+          <commander-rank>4</commander-rank>
+          <fuel-qty>0.0</fuel-qty>
+          <fuel-load>10.0</fuel-load>
+          <speed>
+            <max>60.0</max>
+            <normal>40.0</normal>
+          </speed>
+          <deployment-duration>
+            <deployed>00:05</deployed>
+            <dug-in>02:00</dug-in>
+            <entrenched>2:00:00</entrenched>
+            <fortified>1:00:00</fortified>
+          </deployment-duration>
+          <ready-to-fire-duration>00:00</ready-to-fire-duration>
+          <ready-to-bombard-duration>00:15</ready-to-bombard-duration>
+          <equipment-list>
+            <equipment equipment-object-id="3693" name="10 t M978A4 HEMTT" qty="6" />
+            <equipment equipment-object-id="3655" name="1-1/4 t truck M1151" qty="55" />
+            <equipment equipment-object-id="3670" name="2.5 t M1081 LMTV truck" qty="3" />
+            <equipment equipment-object-id="3661" name="5 t M1083 MTV truck" qty="6" />
+            <equipment equipment-object-id="3707" name="M1068A3 CPC" qty="9" />
+            <equipment equipment-object-id="3691" name="M992A2 FAASV - Cargo Carrier" qty="12" />
+            <equipment equipment-object-id="3687" name="M270A1 MLRS" qty="12" />
+            <equipment equipment-object-id="3651" name="40mm Mk 19" qty="32" />
+            <equipment equipment-object-id="3645" name="5.56mm M249 SAW" qty="3" />
+            <equipment equipment-object-id="3626" name="5.56mm M4 Carbine" qty="383" />
+            <equipment equipment-object-id="3627" name="5.56mm M4 Carbine - M320 GLM" qty="31" />
+            <equipment equipment-object-id="3639" name="7.62mm M240B MMG" qty="20" />
+          </equipment-list>
+          <ammo-list />
+          <can-bombard>yes</can-bombard>
+          <comms-rating>100</comms-rating>/&gt;
+</force>
+        <force id="3793">
+          <name>WF - US - Arm Bridge Pl / Arm Eng Bn</name>
+          <description />
+          <icon>
+            <background-color red="171" green="171" blue="50" />
+            <background-dark-color red="105" green="112" blue="44" />
+            <background-light-color red="232" green="235" blue="203" />
+            <designation-color red="0" green="0" blue="0" />
+            <symbol-color>black</symbol-color>
+            <military-symbol>44</military-symbol>
+            <picture-symbol>bridging</picture-symbol>
+            <force-size-icon>platoon</force-size-icon>
+            <is-hq>no</is-hq>
+          </icon>
+          <type>logistics</type>
+          <sub-type>Bridge Engineer</sub-type>
+          <size>platoon</size>
+          <combat-class>support</combat-class>
+          <target-class>soft</target-class>
+          <infantry-value>10</infantry-value>
+          <recon-value>0</recon-value>
+          <engineering-value>5</engineering-value>
+          <move-type>tracked</move-type>
+          <pers-qty>26</pers-qty>
+          <staff-capacity>1</staff-capacity>
+          <basics-qty>448.0</basics-qty>
+          <basics-consumption-rate-modifier>1.0</basics-consumption-rate-modifier>
+          <commander-rank>1</commander-rank>
+          <fuel-qty>0.0</fuel-qty>
+          <fuel-load>10.0</fuel-load>
+          <speed>
+            <max>60.0</max>
+            <normal>40.0</normal>
+          </speed>
+          <deployment-duration>
+            <deployed>00:05</deployed>
+            <dug-in>02:00</dug-in>
+            <entrenched>2:00:00</entrenched>
+            <fortified>1:00:00</fortified>
+          </deployment-duration>
+          <ready-to-fire-duration>00:00</ready-to-fire-duration>
+          <ready-to-bombard-duration>00:00</ready-to-bombard-duration>
+          <equipment-list>
+            <equipment equipment-object-id="3657" name="1-1/4 t truck M1151 - .50 Cal" qty="1" />
+            <equipment equipment-object-id="3680" name="M104 Wolverine" qty="4" />
+            <equipment equipment-object-id="3626" name="5.56mm M4 Carbine" qty="26" />
+          </equipment-list>
+          <ammo-list />
+          <can-bombard>no</can-bombard>
+          <comms-rating>100</comms-rating>/&gt;
+</force>
+        <force id="3794">
+          <name>WF - US - Arm Eng Co / Arm Eng Bn</name>
+          <description />
+          <icon>
+            <background-color red="171" green="171" blue="50" />
+            <background-dark-color red="105" green="112" blue="44" />
+            <background-light-color red="232" green="235" blue="203" />
+            <designation-color red="0" green="0" blue="0" />
+            <symbol-color>black</symbol-color>
+            <military-symbol>41</military-symbol>
+            <picture-symbol>engineer</picture-symbol>
+            <force-size-icon>company</force-size-icon>
+            <is-hq>no</is-hq>
+          </icon>
+          <type>infantry</type>
+          <sub-type>Combat Engineer</sub-type>
+          <size>company</size>
+          <combat-class>line-support</combat-class>
+          <target-class>mixed</target-class>
+          <infantry-value>62</infantry-value>
+          <recon-value>34</recon-value>
+          <engineering-value>20</engineering-value>
+          <move-type>tracked</move-type>
+          <pers-qty>144</pers-qty>
+          <staff-capacity>1</staff-capacity>
+          <basics-qty>448.0</basics-qty>
+          <basics-consumption-rate-modifier>1.0</basics-consumption-rate-modifier>
+          <commander-rank>2</commander-rank>
+          <fuel-qty>0.0</fuel-qty>
+          <fuel-load>10.0</fuel-load>
+          <speed>
+            <max>60.0</max>
+            <normal>40.0</normal>
+          </speed>
+          <deployment-duration>
+            <deployed>00:05</deployed>
+            <dug-in>02:00</dug-in>
+            <entrenched>2:00:00</entrenched>
+            <fortified>1:00:00</fortified>
+          </deployment-duration>
+          <ready-to-fire-duration>00:00</ready-to-fire-duration>
+          <ready-to-bombard-duration>00:00</ready-to-bombard-duration>
+          <equipment-list>
+            <equipment equipment-object-id="3693" name="10 t M978A4 HEMTT" qty="4" />
+            <equipment equipment-object-id="3655" name="1-1/4 t truck M1151" qty="7" />
+            <equipment equipment-object-id="3657" name="1-1/4 t truck M1151 - .50 Cal" qty="2" />
+            <equipment equipment-object-id="3661" name="5 t M1083 MTV truck" qty="1" />
+            <equipment equipment-object-id="3679" name="M1 ABV" qty="6" />
+            <equipment equipment-object-id="3707" name="M1068A3 CPC" qty="1" />
+            <equipment equipment-object-id="3680" name="M104 Wolverine" qty="2" />
+            <equipment equipment-object-id="3705" name="M113A3 IFV - .50 MG" qty="1" />
+            <equipment equipment-object-id="3683" name="M2A3 Bradley IFV" qty="13" />
+            <equipment equipment-object-id="3645" name="5.56mm M249 SAW" qty="18" />
+            <equipment equipment-object-id="3626" name="5.56mm M4 Carbine" qty="114" />
+            <equipment equipment-object-id="3627" name="5.56mm M4 Carbine - M320 GLM" qty="18" />
+            <equipment equipment-object-id="3651" name="40mm Mk 19" qty="4" />
+            <equipment equipment-object-id="3639" name="7.62mm M240B MMG" qty="4" />
+            <equipment equipment-object-id="3630" name="7.62mm M240L LMG" qty="9" />
+          </equipment-list>
+          <ammo-list />
+          <can-bombard>no</can-bombard>
+          <comms-rating>100</comms-rating>/&gt;
+</force>
+        <force id="3795">
+          <name>WF - US - BSBn ABCT Base</name>
+          <description />
+          <icon>
+            <background-color red="171" green="171" blue="50" />
+            <background-dark-color red="105" green="112" blue="44" />
+            <background-light-color red="232" green="235" blue="203" />
+            <designation-color red="0" green="0" blue="0" />
+            <symbol-color>black</symbol-color>
+            <military-symbol>46</military-symbol>
+            <picture-symbol>base</picture-symbol>
+            <force-size-icon>battalion</force-size-icon>
+            <is-hq>no</is-hq>
+          </icon>
+          <type>logistics</type>
+          <sub-type>Base</sub-type>
+          <size>battalion</size>
+          <combat-class>base</combat-class>
+          <target-class>soft</target-class>
+          <infantry-value>100</infantry-value>
+          <recon-value>0</recon-value>
+          <engineering-value>0</engineering-value>
+          <move-type>wheeled</move-type>
+          <pers-qty>982</pers-qty>
+          <staff-capacity>0</staff-capacity>
+          <basics-qty>448.0</basics-qty>
+          <basics-consumption-rate-modifier>1.0</basics-consumption-rate-modifier>
+          <commander-rank>4</commander-rank>
+          <fuel-qty>0.0</fuel-qty>
+          <fuel-load>10.0</fuel-load>
+          <speed>
+            <max>30.0</max>
+            <normal>20.0</normal>
+          </speed>
+          <deployment-duration>
+            <deployed>00:05</deployed>
+            <dug-in>02:00</dug-in>
+            <entrenched>2:00:00</entrenched>
+            <fortified>1:00:00</fortified>
+          </deployment-duration>
+          <ready-to-fire-duration>00:00</ready-to-fire-duration>
+          <ready-to-bombard-duration>00:00</ready-to-bombard-duration>
+          <equipment-list>
+            <equipment equipment-object-id="3693" name="10 t M978A4 HEMTT" qty="58" />
+            <equipment equipment-object-id="3701" name="10 t M978A4 HEMTT- .50 cal" qty="30" />
+            <equipment equipment-object-id="3702" name="10 t M978A4 HEMTT- M240" qty="24" />
+            <equipment equipment-object-id="3697" name="10 t M978A4 HEMTT tanker" qty="28" />
+            <equipment equipment-object-id="3699" name="10 t M978A4 HEMTT tanker - .50 cal" qty="13" />
+            <equipment equipment-object-id="3700" name="10 t M978A4 HEMTT tanker - M240" qty="12" />
+            <equipment equipment-object-id="3655" name="1-1/4 t truck M1151" qty="42" />
+            <equipment equipment-object-id="3657" name="1-1/4 t truck M1151 - .50 Cal" qty="20" />
+            <equipment equipment-object-id="3658" name="1-1/4 t truck M1151 - M240" qty="12" />
+            <equipment equipment-object-id="3659" name="1-1/4 t truck M1151 - Mk19" qty="10" />
+            <equipment equipment-object-id="3670" name="2.5 t M1081 LMTV truck" qty="17" />
+            <equipment equipment-object-id="3672" name="2.5 t M1081 LMTV truck - .50 cal" qty="6" />
+            <equipment equipment-object-id="3661" name="5 t M1083 MTV truck" qty="39" />
+            <equipment equipment-object-id="3665" name="5 t M1083 MTV truck - .50 cal" qty="20" />
+            <equipment equipment-object-id="3666" name="5 t M1083 MTV truck - M240" qty="2" />
+            <equipment equipment-object-id="3667" name="5 t M1083 MTV truck - Mk19" qty="8" />
+            <equipment equipment-object-id="3663" name="5 t XM1091 tanker" qty="10" />
+            <equipment equipment-object-id="3664" name="5 t XM1091 tanker - M240" qty="5" />
+            <equipment equipment-object-id="3707" name="M1068A3 CPC" qty="4" />
+            <equipment equipment-object-id="3651" name="40mm Mk 19" qty="7" />
+            <equipment equipment-object-id="3645" name="5.56mm M249 SAW" qty="101" />
+            <equipment equipment-object-id="3626" name="5.56mm M4 Carbine" qty="871" />
+            <equipment equipment-object-id="3627" name="5.56mm M4 Carbine - M320 GLM" qty="24" />
+            <equipment equipment-object-id="3639" name="7.62mm M240B MMG" qty="3" />
+          </equipment-list>
+          <ammo-list />
+          <can-bombard>no</can-bombard>
+          <comms-rating>100</comms-rating>/&gt;
+</force>
+        <force id="3796">
+          <name>WF - US - BSBn IBCT Base</name>
+          <description />
+          <icon>
+            <background-color red="171" green="171" blue="50" />
+            <background-dark-color red="105" green="112" blue="44" />
+            <background-light-color red="232" green="235" blue="203" />
+            <designation-color red="0" green="0" blue="0" />
+            <symbol-color>black</symbol-color>
+            <military-symbol>46</military-symbol>
+            <picture-symbol>base</picture-symbol>
+            <force-size-icon>battalion</force-size-icon>
+            <is-hq>no</is-hq>
+          </icon>
+          <type>logistics</type>
+          <sub-type>Base</sub-type>
+          <size>battalion</size>
+          <combat-class>base</combat-class>
+          <target-class>soft</target-class>
+          <infantry-value>65</infantry-value>
+          <recon-value>0</recon-value>
+          <engineering-value>0</engineering-value>
+          <move-type>wheeled</move-type>
+          <pers-qty>802</pers-qty>
+          <staff-capacity>0</staff-capacity>
+          <basics-qty>448.0</basics-qty>
+          <basics-consumption-rate-modifier>1.0</basics-consumption-rate-modifier>
+          <commander-rank>4</commander-rank>
+          <fuel-qty>0.0</fuel-qty>
+          <fuel-load>10.0</fuel-load>
+          <speed>
+            <max>30.0</max>
+            <normal>20.0</normal>
+          </speed>
+          <deployment-duration>
+            <deployed>00:05</deployed>
+            <dug-in>02:00</dug-in>
+            <entrenched>2:00:00</entrenched>
+            <fortified>1:00:00</fortified>
+          </deployment-duration>
+          <ready-to-fire-duration>00:00</ready-to-fire-duration>
+          <ready-to-bombard-duration>00:00</ready-to-bombard-duration>
+          <equipment-list>
+            <equipment equipment-object-id="3693" name="10 t M978A4 HEMTT" qty="32" />
+            <equipment equipment-object-id="3701" name="10 t M978A4 HEMTT- .50 cal" qty="9" />
+            <equipment equipment-object-id="3702" name="10 t M978A4 HEMTT- M240" qty="11" />
+            <equipment equipment-object-id="3697" name="10 t M978A4 HEMTT tanker" qty="23" />
+            <equipment equipment-object-id="3699" name="10 t M978A4 HEMTT tanker - .50 cal" qty="5" />
+            <equipment equipment-object-id="3700" name="10 t M978A4 HEMTT tanker - M240" qty="4" />
+            <equipment equipment-object-id="3655" name="1-1/4 t truck M1151" qty="41" />
+            <equipment equipment-object-id="3657" name="1-1/4 t truck M1151 - .50 Cal" qty="13" />
+            <equipment equipment-object-id="3658" name="1-1/4 t truck M1151 - M240" qty="8" />
+            <equipment equipment-object-id="3659" name="1-1/4 t truck M1151 - Mk19" qty="7" />
+            <equipment equipment-object-id="3670" name="2.5 t M1081 LMTV truck" qty="49" />
+            <equipment equipment-object-id="3672" name="2.5 t M1081 LMTV truck - .50 cal" qty="9" />
+            <equipment equipment-object-id="3673" name="2.5 t M1081 LMTV truck - M240" qty="8" />
+            <equipment equipment-object-id="3674" name="2.5 t M1081 LMTV truck - Mk19" qty="1" />
+            <equipment equipment-object-id="3661" name="5 t M1083 MTV truck" qty="90" />
+            <equipment equipment-object-id="3665" name="5 t M1083 MTV truck - .50 cal" qty="20" />
+            <equipment equipment-object-id="3666" name="5 t M1083 MTV truck - M240" qty="16" />
+            <equipment equipment-object-id="3667" name="5 t M1083 MTV truck - Mk19" qty="1" />
+            <equipment equipment-object-id="3645" name="5.56mm M249 SAW" qty="90" />
+            <equipment equipment-object-id="3626" name="5.56mm M4 Carbine" qty="606" />
+            <equipment equipment-object-id="3627" name="5.56mm M4 Carbine - M320 GLM" qty="28" />
+          </equipment-list>
+          <ammo-list />
+          <can-bombard>no</can-bombard>
+          <comms-rating>100</comms-rating>/&gt;
+</force>
+        <force id="3797">
+          <name>WF - US - BSBn SBCT Base</name>
+          <description />
+          <icon>
+            <background-color red="171" green="171" blue="50" />
+            <background-dark-color red="105" green="112" blue="44" />
+            <background-light-color red="232" green="235" blue="203" />
+            <designation-color red="0" green="0" blue="0" />
+            <symbol-color>black</symbol-color>
+            <military-symbol>46</military-symbol>
+            <picture-symbol>base</picture-symbol>
+            <force-size-icon>battalion</force-size-icon>
+            <is-hq>no</is-hq>
+          </icon>
+          <type>logistics</type>
+          <sub-type>Base</sub-type>
+          <size>battalion</size>
+          <combat-class>base</combat-class>
+          <target-class>soft</target-class>
+          <infantry-value>100</infantry-value>
+          <recon-value>0</recon-value>
+          <engineering-value>0</engineering-value>
+          <move-type>wheeled</move-type>
+          <pers-qty>900</pers-qty>
+          <staff-capacity>0</staff-capacity>
+          <basics-qty>448.0</basics-qty>
+          <basics-consumption-rate-modifier>1.0</basics-consumption-rate-modifier>
+          <commander-rank>4</commander-rank>
+          <fuel-qty>0.0</fuel-qty>
+          <fuel-load>10.0</fuel-load>
+          <speed>
+            <max>30.0</max>
+            <normal>20.0</normal>
+          </speed>
+          <deployment-duration>
+            <deployed>00:05</deployed>
+            <dug-in>02:00</dug-in>
+            <entrenched>2:00:00</entrenched>
+            <fortified>1:00:00</fortified>
+          </deployment-duration>
+          <ready-to-fire-duration>00:00</ready-to-fire-duration>
+          <ready-to-bombard-duration>00:00</ready-to-bombard-duration>
+          <equipment-list>
+            <equipment equipment-object-id="3693" name="10 t M978A4 HEMTT" qty="41" />
+            <equipment equipment-object-id="3701" name="10 t M978A4 HEMTT- .50 cal" qty="26" />
+            <equipment equipment-object-id="3702" name="10 t M978A4 HEMTT- M240" qty="16" />
+            <equipment equipment-object-id="3697" name="10 t M978A4 HEMTT tanker" qty="25" />
+            <equipment equipment-object-id="3700" name="10 t M978A4 HEMTT tanker - M240" qty="14" />
+            <equipment equipment-object-id="3655" name="1-1/4 t truck M1151" qty="40" />
+            <equipment equipment-object-id="3657" name="1-1/4 t truck M1151 - .50 Cal" qty="27" />
+            <equipment equipment-object-id="3658" name="1-1/4 t truck M1151 - M240" qty="13" />
+            <equipment equipment-object-id="3659" name="1-1/4 t truck M1151 - Mk19" qty="16" />
+            <equipment equipment-object-id="3661" name="5 t M1083 MTV truck" qty="40" />
+            <equipment equipment-object-id="3665" name="5 t M1083 MTV truck - .50 cal" qty="15" />
+            <equipment equipment-object-id="3666" name="5 t M1083 MTV truck - M240" qty="23" />
+            <equipment equipment-object-id="3667" name="5 t M1083 MTV truck - Mk19" qty="12" />
+            <equipment equipment-object-id="3645" name="5.56mm M249 SAW" qty="80" />
+            <equipment equipment-object-id="3626" name="5.56mm M4 Carbine" qty="750" />
+            <equipment equipment-object-id="3627" name="5.56mm M4 Carbine - M320 GLM" qty="25" />
+          </equipment-list>
+          <ammo-list />
+          <can-bombard>no</can-bombard>
+          <comms-rating>100</comms-rating>/&gt;
+</force>
+        <force id="3798">
+          <name>WF - US - Eng Co / Eng Combat Bn</name>
+          <description />
+          <icon>
+            <background-color red="171" green="171" blue="50" />
+            <background-dark-color red="105" green="112" blue="44" />
+            <background-light-color red="232" green="235" blue="203" />
+            <designation-color red="0" green="0" blue="0" />
+            <symbol-color>black</symbol-color>
+            <military-symbol>40</military-symbol>
+            <picture-symbol>engineer</picture-symbol>
+            <force-size-icon>company</force-size-icon>
+            <is-hq>no</is-hq>
+          </icon>
+          <type>infantry</type>
+          <sub-type>Combat Engineer</sub-type>
+          <size>company</size>
+          <combat-class>line-support</combat-class>
+          <target-class>soft</target-class>
+          <infantry-value>42</infantry-value>
+          <recon-value>34</recon-value>
+          <engineering-value>14</engineering-value>
+          <move-type>wheeled</move-type>
+          <pers-qty>74</pers-qty>
+          <staff-capacity>0</staff-capacity>
+          <basics-qty>448.0</basics-qty>
+          <basics-consumption-rate-modifier>1.0</basics-consumption-rate-modifier>
+          <commander-rank>2</commander-rank>
+          <fuel-qty>0.0</fuel-qty>
+          <fuel-load>10.0</fuel-load>
+          <speed>
+            <max>50.0</max>
+            <normal>30.0</normal>
+          </speed>
+          <deployment-duration>
+            <deployed>00:05</deployed>
+            <dug-in>02:00</dug-in>
+            <entrenched>2:00:00</entrenched>
+            <fortified>1:00:00</fortified>
+          </deployment-duration>
+          <ready-to-fire-duration>00:00</ready-to-fire-duration>
+          <ready-to-bombard-duration>00:00</ready-to-bombard-duration>
+          <equipment-list>
+            <equipment equipment-object-id="3655" name="1-1/4 t truck M1151" qty="6" />
+            <equipment equipment-object-id="3657" name="1-1/4 t truck M1151 - .50 Cal" qty="2" />
+            <equipment equipment-object-id="3659" name="1-1/4 t truck M1151 - Mk19" qty="4" />
+            <equipment equipment-object-id="3661" name="5 t M1083 MTV truck" qty="3" />
+            <equipment equipment-object-id="3667" name="5 t M1083 MTV truck - Mk19" qty="1" />
+            <equipment equipment-object-id="3626" name="5.56mm M4 Carbine" qty="61" />
+            <equipment equipment-object-id="3627" name="5.56mm M4 Carbine - M320 GLM" qty="18" />
+            <equipment equipment-object-id="3639" name="7.62mm M240B MMG" qty="8" />
+            <equipment equipment-object-id="3630" name="7.62mm M240L LMG" qty="6" />
+            <equipment equipment-object-id="3621" name="M136 AT4" qty="8" />
+          </equipment-list>
+          <ammo-list />
+          <can-bombard>no</can-bombard>
+          <comms-rating>100</comms-rating>/&gt;
+</force>
+        <force id="3799">
+          <name>WF - US - Eng Co / Str Eng Bn</name>
+          <description />
+          <icon>
+            <background-color red="171" green="171" blue="50" />
+            <background-dark-color red="105" green="112" blue="44" />
+            <background-light-color red="232" green="235" blue="203" />
+            <designation-color red="0" green="0" blue="0" />
+            <symbol-color>black</symbol-color>
+            <military-symbol>40</military-symbol>
+            <picture-symbol>engineer</picture-symbol>
+            <force-size-icon>company</force-size-icon>
+            <is-hq>no</is-hq>
+          </icon>
+          <type>infantry</type>
+          <sub-type>Combat Engineer</sub-type>
+          <size>company</size>
+          <combat-class>line-support</combat-class>
+          <target-class>mixed</target-class>
+          <infantry-value>60</infantry-value>
+          <recon-value>34</recon-value>
+          <engineering-value>15</engineering-value>
+          <move-type>wheeled</move-type>
+          <pers-qty>143</pers-qty>
+          <staff-capacity>1</staff-capacity>
+          <basics-qty>448.0</basics-qty>
+          <basics-consumption-rate-modifier>1.0</basics-consumption-rate-modifier>
+          <commander-rank>2</commander-rank>
+          <fuel-qty>0.0</fuel-qty>
+          <fuel-load>10.0</fuel-load>
+          <speed>
+            <max>60.0</max>
+            <normal>40.0</normal>
+          </speed>
+          <deployment-duration>
+            <deployed>00:05</deployed>
+            <dug-in>02:00</dug-in>
+            <entrenched>2:00:00</entrenched>
+            <fortified>1:00:00</fortified>
+          </deployment-duration>
+          <ready-to-fire-duration>00:00</ready-to-fire-duration>
+          <ready-to-bombard-duration>00:00</ready-to-bombard-duration>
+          <equipment-list>
+            <equipment equipment-object-id="3655" name="1-1/4 t truck M1151" qty="2" />
+            <equipment equipment-object-id="3661" name="5 t M1083 MTV truck" qty="2" />
+            <equipment equipment-object-id="3657" name="1-1/4 t truck M1151 - .50 Cal" qty="1" />
+            <equipment equipment-object-id="3659" name="1-1/4 t truck M1151 - Mk19" qty="3" />
+            <equipment equipment-object-id="3693" name="10 t M978A4 HEMTT" qty="3" />
+            <equipment equipment-object-id="3710" name="M1126 ICV - 50 cal MG" qty="13" />
+            <equipment equipment-object-id="3702" name="10 t M978A4 HEMTT- M240" qty="2" />
+            <equipment equipment-object-id="3701" name="10 t M978A4 HEMTT- .50 cal" qty="1" />
+            <equipment equipment-object-id="3695" name="M1977 CBT HEMTT" qty="4" />
+            <equipment equipment-object-id="3645" name="5.56mm M249 SAW" qty="18" />
+            <equipment equipment-object-id="3626" name="5.56mm M4 Carbine" qty="98" />
+            <equipment equipment-object-id="3627" name="5.56mm M4 Carbine - M320 GLM" qty="22" />
+            <equipment equipment-object-id="3621" name="M136 AT4" qty="4" />
+            <equipment equipment-object-id="3639" name="7.62mm M240B MMG" qty="4" />
+            <equipment equipment-object-id="3630" name="7.62mm M240L LMG" qty="9" />
+          </equipment-list>
+          <ammo-list />
+          <can-bombard>no</can-bombard>
+          <comms-rating>100</comms-rating>/&gt;
+</force>
+        <force id="3800">
+          <name>WF - US - M1A2 Tank Co</name>
+          <description />
+          <icon>
+            <background-color red="171" green="171" blue="50" />
+            <background-dark-color red="105" green="112" blue="44" />
+            <background-light-color red="232" green="235" blue="203" />
+            <designation-color red="0" green="0" blue="0" />
+            <symbol-color>black</symbol-color>
+            <military-symbol>4</military-symbol>
+            <picture-symbol>tank</picture-symbol>
+            <force-size-icon>company</force-size-icon>
+            <is-hq>no</is-hq>
+          </icon>
+          <type>armour</type>
+          <sub-type>Tank</sub-type>
+          <size>company</size>
+          <combat-class>line</combat-class>
+          <target-class>hard</target-class>
+          <infantry-value>0</infantry-value>
+          <recon-value>0</recon-value>
+          <engineering-value>0</engineering-value>
+          <move-type>tracked</move-type>
+          <pers-qty>62</pers-qty>
+          <staff-capacity>1</staff-capacity>
+          <basics-qty>448.0</basics-qty>
+          <basics-consumption-rate-modifier>1.0</basics-consumption-rate-modifier>
+          <commander-rank>2</commander-rank>
+          <fuel-qty>0.0</fuel-qty>
+          <fuel-load>10.0</fuel-load>
+          <speed>
+            <max>60.0</max>
+            <normal>40.0</normal>
+          </speed>
+          <deployment-duration>
+            <deployed>00:05</deployed>
+            <dug-in>02:00</dug-in>
+            <entrenched>2:00:00</entrenched>
+            <fortified>1:00:00</fortified>
+          </deployment-duration>
+          <ready-to-fire-duration>00:00</ready-to-fire-duration>
+          <ready-to-bombard-duration>00:00</ready-to-bombard-duration>
+          <equipment-list>
+            <equipment equipment-object-id="3655" name="1-1/4 t truck M1151" qty="2" />
+            <equipment equipment-object-id="3661" name="5 t M1083 MTV truck" qty="1" />
+            <equipment equipment-object-id="3705" name="M113A3 IFV - .50 MG" qty="1" />
+            <equipment equipment-object-id="3677" name="M1A2 Abrams - 120mm" qty="14" />
+            <equipment equipment-object-id="3626" name="5.56mm M4 Carbine" qty="28" />
+            <equipment equipment-object-id="3627" name="5.56mm M4 Carbine - M320 GLM" qty="4" />
+          </equipment-list>
+          <ammo-list />
+          <can-bombard>no</can-bombard>
+          <comms-rating>100</comms-rating>/&gt;
+</force>
+        <force id="3801">
+          <name>WF - US - Mor Plt / Inf Bn</name>
+          <description />
+          <icon>
+            <background-color red="171" green="171" blue="50" />
+            <background-dark-color red="105" green="112" blue="44" />
+            <background-light-color red="232" green="235" blue="203" />
+            <designation-color red="0" green="0" blue="0" />
+            <symbol-color>black</symbol-color>
+            <military-symbol>8</military-symbol>
+            <picture-symbol>mortar</picture-symbol>
+            <force-size-icon>platoon</force-size-icon>
+            <is-hq>no</is-hq>
+          </icon>
+          <type>artillery</type>
+          <sub-type>Mortar</sub-type>
+          <size>platoon</size>
+          <combat-class>support</combat-class>
+          <target-class>soft</target-class>
+          <infantry-value>0</infantry-value>
+          <recon-value>0</recon-value>
+          <engineering-value>0</engineering-value>
+          <move-type>wheeled</move-type>
+          <pers-qty>24</pers-qty>
+          <staff-capacity>0</staff-capacity>
+          <basics-qty>448.0</basics-qty>
+          <basics-consumption-rate-modifier>1.0</basics-consumption-rate-modifier>
+          <commander-rank>1</commander-rank>
+          <fuel-qty>0.0</fuel-qty>
+          <fuel-load>10.0</fuel-load>
+          <speed>
+            <max>50.0</max>
+            <normal>30.0</normal>
+          </speed>
+          <deployment-duration>
+            <deployed>00:05</deployed>
+            <dug-in>02:00</dug-in>
+            <entrenched>2:00:00</entrenched>
+            <fortified>1:00:00</fortified>
+          </deployment-duration>
+          <ready-to-fire-duration>00:00</ready-to-fire-duration>
+          <ready-to-bombard-duration>00:00</ready-to-bombard-duration>
+          <equipment-list>
+            <equipment equipment-object-id="3655" name="1-1/4 t truck M1151" qty="7" />
+            <equipment equipment-object-id="3621" name="M136 AT4" qty="4" />
+            <equipment equipment-object-id="3626" name="5.56mm M4 Carbine" qty="24" />
+            <equipment equipment-object-id="3623" name="60mm M224A1 mortar" qty="4" />
+            <equipment equipment-object-id="3624" name="81mm M252A1 mortar" qty="4" />
+          </equipment-list>
+          <ammo-list />
+          <can-bombard>no</can-bombard>
+          <comms-rating>100</comms-rating>/&gt;
+</force>
+        <force id="3802">
+          <name>WF - US - MultiRole Bridge Co</name>
+          <description />
+          <icon>
+            <background-color red="171" green="171" blue="50" />
+            <background-dark-color red="105" green="112" blue="44" />
+            <background-light-color red="232" green="235" blue="203" />
+            <designation-color red="0" green="0" blue="0" />
+            <symbol-color>black</symbol-color>
+            <military-symbol>43</military-symbol>
+            <picture-symbol>bridging</picture-symbol>
+            <force-size-icon>company</force-size-icon>
+            <is-hq>no</is-hq>
+          </icon>
+          <type>logistics</type>
+          <sub-type>Bridge Engineer</sub-type>
+          <size>company</size>
+          <combat-class>support</combat-class>
+          <target-class>mixed</target-class>
+          <infantry-value>40</infantry-value>
+          <recon-value>0</recon-value>
+          <engineering-value>15</engineering-value>
+          <move-type>tracked</move-type>
+          <pers-qty>80</pers-qty>
+          <staff-capacity>1</staff-capacity>
+          <basics-qty>448.0</basics-qty>
+          <basics-consumption-rate-modifier>1.0</basics-consumption-rate-modifier>
+          <commander-rank>2</commander-rank>
+          <fuel-qty>0.0</fuel-qty>
+          <fuel-load>10.0</fuel-load>
+          <speed>
+            <max>60.0</max>
+            <normal>40.0</normal>
+          </speed>
+          <deployment-duration>
+            <deployed>00:05</deployed>
+            <dug-in>02:00</dug-in>
+            <entrenched>2:00:00</entrenched>
+            <fortified>1:00:00</fortified>
+          </deployment-duration>
+          <ready-to-fire-duration>00:00</ready-to-fire-duration>
+          <ready-to-bombard-duration>00:00</ready-to-bombard-duration>
+          <equipment-list>
+            <equipment equipment-object-id="3693" name="10 t M978A4 HEMTT" qty="3" />
+            <equipment equipment-object-id="3701" name="10 t M978A4 HEMTT- .50 cal" qty="1" />
+            <equipment equipment-object-id="3702" name="10 t M978A4 HEMTT- M240" qty="1" />
+            <equipment equipment-object-id="3655" name="1-1/4 t truck M1151" qty="10" />
+            <equipment equipment-object-id="3657" name="1-1/4 t truck M1151 - .50 Cal" qty="4" />
+            <equipment equipment-object-id="3659" name="1-1/4 t truck M1151 - Mk19" qty="2" />
+            <equipment equipment-object-id="3670" name="2.5 t M1081 LMTV truck" qty="4" />
+            <equipment equipment-object-id="3673" name="2.5 t M1081 LMTV truck - M240" qty="1" />
+            <equipment equipment-object-id="3661" name="5 t M1083 MTV truck" qty="3" />
+            <equipment equipment-object-id="3665" name="5 t M1083 MTV truck - .50 cal" qty="1" />
+            <equipment equipment-object-id="3666" name="5 t M1083 MTV truck - M240" qty="1" />
+            <equipment equipment-object-id="3695" name="M1977 CBT HEMTT" qty="4" />
+            <equipment equipment-object-id="3626" name="5.56mm M4 Carbine" qty="80" />
+          </equipment-list>
+          <ammo-list />
+          <can-bombard>no</can-bombard>
+          <comms-rating>100</comms-rating>/&gt;
+</force>
+        <force id="3803">
+          <name>WF - US - Recce Trp / Str Cav Bn</name>
+          <description />
+          <icon>
+            <background-color red="171" green="171" blue="50" />
+            <background-dark-color red="105" green="112" blue="44" />
+            <background-light-color red="232" green="235" blue="203" />
+            <designation-color red="0" green="0" blue="0" />
+            <symbol-color>black</symbol-color>
+            <military-symbol>3</military-symbol>
+            <picture-symbol>motor-inf</picture-symbol>
+            <force-size-icon>company</force-size-icon>
+            <is-hq>no</is-hq>
+          </icon>
+          <type>infantry</type>
+          <sub-type>Mot Recon</sub-type>
+          <size>company</size>
+          <combat-class>line</combat-class>
+          <target-class>mixed</target-class>
+          <infantry-value>45</infantry-value>
+          <recon-value>51</recon-value>
+          <engineering-value>0</engineering-value>
+          <move-type>wheeled</move-type>
+          <pers-qty>92</pers-qty>
+          <staff-capacity>0</staff-capacity>
+          <basics-qty>448.0</basics-qty>
+          <basics-consumption-rate-modifier>1.0</basics-consumption-rate-modifier>
+          <commander-rank>2</commander-rank>
+          <fuel-qty>0.0</fuel-qty>
+          <fuel-load>10.0</fuel-load>
+          <speed>
+            <max>60.0</max>
+            <normal>40.0</normal>
+          </speed>
+          <deployment-duration>
+            <deployed>00:05</deployed>
+            <dug-in>02:00</dug-in>
+            <entrenched>2:00:00</entrenched>
+            <fortified>1:00:00</fortified>
+          </deployment-duration>
+          <ready-to-fire-duration>00:00</ready-to-fire-duration>
+          <ready-to-bombard-duration>00:00</ready-to-bombard-duration>
+          <equipment-list>
+            <equipment equipment-object-id="3655" name="1-1/4 t truck M1151" qty="1" />
+            <equipment equipment-object-id="3661" name="5 t M1083 MTV truck" qty="2" />
+            <equipment equipment-object-id="3710" name="M1126 ICV - 50 cal MG" qty="7" />
+            <equipment equipment-object-id="3712" name="M1126 ICV - Mk19" qty="7" />
+            <equipment equipment-object-id="3713" name="M1129 MC - 120mm mortar" qty="2" />
+            <equipment equipment-object-id="3626" name="5.56mm M4 Carbine" qty="82" />
+            <equipment equipment-object-id="3627" name="5.56mm M4 Carbine - M320 GLM" qty="10" />
+            <equipment equipment-object-id="3630" name="7.62mm M240L LMG" qty="12" />
+            <equipment equipment-object-id="3621" name="M136 AT4" qty="24" />
+          </equipment-list>
+          <ammo-list />
+          <can-bombard>no</can-bombard>
+          <comms-rating>100</comms-rating>/&gt;
+</force>
+        <force id="3804">
+          <name>WF - US - Calvary Trp</name>
+          <description />
+          <icon>
+            <background-color red="171" green="171" blue="50" />
+            <background-dark-color red="105" green="112" blue="44" />
+            <background-light-color red="232" green="235" blue="203" />
+            <designation-color red="0" green="0" blue="0" />
+            <symbol-color>black</symbol-color>
+            <military-symbol>3</military-symbol>
+            <picture-symbol>motor-inf</picture-symbol>
+            <force-size-icon>company</force-size-icon>
+            <is-hq>no</is-hq>
+          </icon>
+          <type>infantry</type>
+          <sub-type>Mot Recon</sub-type>
+          <size>company</size>
+          <combat-class>line</combat-class>
+          <target-class>soft</target-class>
+          <infantry-value>19</infantry-value>
+          <recon-value>45</recon-value>
+          <engineering-value>0</engineering-value>
+          <move-type>wheeled</move-type>
+          <pers-qty>92</pers-qty>
+          <staff-capacity>0</staff-capacity>
+          <basics-qty>448.0</basics-qty>
+          <basics-consumption-rate-modifier>1.0</basics-consumption-rate-modifier>
+          <commander-rank>2</commander-rank>
+          <fuel-qty>0.0</fuel-qty>
+          <fuel-load>10.0</fuel-load>
+          <speed>
+            <max>60.0</max>
+            <normal>40.0</normal>
+          </speed>
+          <deployment-duration>
+            <deployed>00:05</deployed>
+            <dug-in>02:00</dug-in>
+            <entrenched>2:00:00</entrenched>
+            <fortified>1:00:00</fortified>
+          </deployment-duration>
+          <ready-to-fire-duration>00:00</ready-to-fire-duration>
+          <ready-to-bombard-duration>00:00</ready-to-bombard-duration>
+          <equipment-list>
+            <equipment equipment-object-id="3655" name="1-1/4 t truck M1151" qty="4" />
+            <equipment equipment-object-id="3657" name="1-1/4 t truck M1151 - .50 Cal" qty="7" />
+            <equipment equipment-object-id="3659" name="1-1/4 t truck M1151 - Mk19" qty="6" />
+            <equipment equipment-object-id="3660" name="1-1/4 t truck M1167 - TOW" qty="6" />
+            <equipment equipment-object-id="3661" name="5 t M1083 MTV truck" qty="2" />
+            <equipment equipment-object-id="563" name=".50 cal M2HB HMG" qty="2" />
+            <equipment equipment-object-id="3625" name="120mm M120 mortar" qty="2" />
+            <equipment equipment-object-id="3626" name="5.56mm M4 Carbine" qty="78" />
+            <equipment equipment-object-id="3627" name="5.56mm M4 Carbine - M320 GLM" qty="10" />
+            <equipment equipment-object-id="3639" name="7.62mm M240B MMG" qty="4" />
+            <equipment equipment-object-id="3630" name="7.62mm M240L LMG" qty="8" />
+            <equipment equipment-object-id="3621" name="M136 AT4" qty="18" />
+          </equipment-list>
+          <ammo-list />
+          <can-bombard>no</can-bombard>
+          <comms-rating>100</comms-rating>/&gt;
+</force>
+        <force id="3805">
+          <name>WF - US - Arm Cav Trp / Arm Cav Bn</name>
+          <description />
+          <icon>
+            <background-color red="171" green="171" blue="50" />
+            <background-dark-color red="105" green="112" blue="44" />
+            <background-light-color red="232" green="235" blue="203" />
+            <designation-color red="0" green="0" blue="0" />
+            <symbol-color>black</symbol-color>
+            <military-symbol>5</military-symbol>
+            <picture-symbol>mech-inf</picture-symbol>
+            <force-size-icon>company</force-size-icon>
+            <is-hq>no</is-hq>
+          </icon>
+          <type>armour</type>
+          <sub-type>Armoured Recon</sub-type>
+          <size>company</size>
+          <combat-class>line</combat-class>
+          <target-class>hard</target-class>
+          <infantry-value>24</infantry-value>
+          <recon-value>45</recon-value>
+          <engineering-value>0</engineering-value>
+          <move-type>tracked</move-type>
+          <pers-qty>93</pers-qty>
+          <staff-capacity>1</staff-capacity>
+          <basics-qty>448.0</basics-qty>
+          <basics-consumption-rate-modifier>1.0</basics-consumption-rate-modifier>
+          <commander-rank>2</commander-rank>
+          <fuel-qty>0.0</fuel-qty>
+          <fuel-load>10.0</fuel-load>
+          <speed>
+            <max>60.0</max>
+            <normal>40.0</normal>
+          </speed>
+          <deployment-duration>
+            <deployed>00:05</deployed>
+            <dug-in>02:00</dug-in>
+            <entrenched>2:00:00</entrenched>
+            <fortified>1:00:00</fortified>
+          </deployment-duration>
+          <ready-to-fire-duration>00:00</ready-to-fire-duration>
+          <ready-to-bombard-duration>00:00</ready-to-bombard-duration>
+          <equipment-list>
+            <equipment equipment-object-id="3655" name="1-1/4 t truck M1151" qty="2" />
+            <equipment equipment-object-id="3657" name="1-1/4 t truck M1151 - .50 Cal" qty="6" />
+            <equipment equipment-object-id="3659" name="1-1/4 t truck M1151 - Mk19" qty="4" />
+            <equipment equipment-object-id="3661" name="5 t M1083 MTV truck" qty="1" />
+            <equipment equipment-object-id="3707" name="M1068A3 CPC" qty="1" />
+            <equipment equipment-object-id="3705" name="M113A3 IFV - .50 MG" qty="1" />
+            <equipment equipment-object-id="3685" name="M3A3 Bradley CFV" qty="7" />
+            <equipment equipment-object-id="3703" name="M1064A3 MC - 120mm mortar" qty="2" />
+            <equipment equipment-object-id="3626" name="5.56mm M4 Carbine" qty="62" />
+            <equipment equipment-object-id="3627" name="5.56mm M4 Carbine - M320 GLM" qty="10" />
+            <equipment equipment-object-id="3630" name="7.62mm M240L LMG" qty="5" />
+            <equipment equipment-object-id="3621" name="M136 AT4" qty="12" />
+          </equipment-list>
+          <ammo-list />
+          <can-bombard>no</can-bombard>
+          <comms-rating>100</comms-rating>/&gt;
+</force>
+        <force id="3806">
+          <name>WF - US - Cavalry Trp Dsmntd</name>
+          <description />
+          <icon>
+            <background-color red="171" green="171" blue="50" />
+            <background-dark-color red="105" green="112" blue="44" />
+            <background-light-color red="232" green="235" blue="203" />
+            <designation-color red="0" green="0" blue="0" />
+            <symbol-color>black</symbol-color>
+            <military-symbol>3</military-symbol>
+            <picture-symbol>infantry</picture-symbol>
+            <force-size-icon>company</force-size-icon>
+            <is-hq>no</is-hq>
+          </icon>
+          <type>infantry</type>
+          <sub-type>Leg Recon</sub-type>
+          <size>company</size>
+          <combat-class>line</combat-class>
+          <target-class>soft</target-class>
+          <infantry-value>30</infantry-value>
+          <recon-value>50</recon-value>
+          <engineering-value>0</engineering-value>
+          <move-type>foot</move-type>
+          <pers-qty>80</pers-qty>
+          <staff-capacity>0</staff-capacity>
+          <basics-qty>448.0</basics-qty>
+          <basics-consumption-rate-modifier>1.0</basics-consumption-rate-modifier>
+          <commander-rank>2</commander-rank>
+          <fuel-qty>0.0</fuel-qty>
+          <fuel-load>10.0</fuel-load>
+          <speed>
+            <max>9.0</max>
+            <normal>6.0</normal>
+          </speed>
+          <deployment-duration>
+            <deployed>00:05</deployed>
+            <dug-in>02:00</dug-in>
+            <entrenched>2:00:00</entrenched>
+            <fortified>1:00:00</fortified>
+          </deployment-duration>
+          <ready-to-fire-duration>00:00</ready-to-fire-duration>
+          <ready-to-bombard-duration>00:00</ready-to-bombard-duration>
+          <equipment-list>
+            <equipment equipment-object-id="3655" name="1-1/4 t truck M1151" qty="4" />
+            <equipment equipment-object-id="3661" name="5 t M1083 MTV truck" qty="1" />
+            <equipment equipment-object-id="3621" name="M136 AT4" qty="12" />
+            <equipment equipment-object-id="3645" name="5.56mm M249 SAW" qty="14" />
+            <equipment equipment-object-id="3626" name="5.56mm M4 Carbine" qty="60" />
+            <equipment equipment-object-id="3627" name="5.56mm M4 Carbine - M320 GLM" qty="18" />
+            <equipment equipment-object-id="3623" name="60mm M224A1 mortar" qty="2" />
+            <equipment equipment-object-id="563" name=".50 cal M2HB HMG" qty="1" />
+          </equipment-list>
+          <ammo-list />
+          <can-bombard>no</can-bombard>
+          <comms-rating>100</comms-rating>/&gt;
+</force>
+        <force id="3807">
+          <name>WF - US - Mech Inf Co / CAB</name>
+          <description />
+          <icon>
+            <background-color red="171" green="171" blue="50" />
+            <background-dark-color red="105" green="112" blue="44" />
+            <background-light-color red="232" green="235" blue="203" />
+            <designation-color red="0" green="0" blue="0" />
+            <symbol-color>black</symbol-color>
+            <military-symbol>24</military-symbol>
+            <picture-symbol>mech-inf</picture-symbol>
+            <force-size-icon>company</force-size-icon>
+            <is-hq>no</is-hq>
+          </icon>
+          <type>infantry</type>
+          <sub-type>Mech Infantry</sub-type>
+          <size>company</size>
+          <combat-class>line</combat-class>
+          <target-class>mixed</target-class>
+          <infantry-value>85</infantry-value>
+          <recon-value>20</recon-value>
+          <engineering-value>0</engineering-value>
+          <move-type>tracked</move-type>
+          <pers-qty>135</pers-qty>
+          <staff-capacity>1</staff-capacity>
+          <basics-qty>448.0</basics-qty>
+          <basics-consumption-rate-modifier>1.0</basics-consumption-rate-modifier>
+          <commander-rank>2</commander-rank>
+          <fuel-qty>0.0</fuel-qty>
+          <fuel-load>10.0</fuel-load>
+          <speed>
+            <max>60.0</max>
+            <normal>40.0</normal>
+          </speed>
+          <deployment-duration>
+            <deployed>00:05</deployed>
+            <dug-in>02:00</dug-in>
+            <entrenched>2:00:00</entrenched>
+            <fortified>1:00:00</fortified>
+          </deployment-duration>
+          <ready-to-fire-duration>00:00</ready-to-fire-duration>
+          <ready-to-bombard-duration>00:00</ready-to-bombard-duration>
+          <equipment-list>
+            <equipment equipment-object-id="3655" name="1-1/4 t truck M1151" qty="2" />
+            <equipment equipment-object-id="3661" name="5 t M1083 MTV truck" qty="1" />
+            <equipment equipment-object-id="3683" name="M2A3 Bradley IFV" qty="14" />
+            <equipment equipment-object-id="3705" name="M113A3 IFV - .50 MG" qty="1" />
+            <equipment equipment-object-id="3645" name="5.56mm M249 SAW" qty="18" />
+            <equipment equipment-object-id="3626" name="5.56mm M4 Carbine" qty="95" />
+            <equipment equipment-object-id="3627" name="5.56mm M4 Carbine - M320 GLM" qty="20" />
+            <equipment equipment-object-id="3621" name="M136 AT4" qty="18" />
+          </equipment-list>
+          <ammo-list />
+          <can-bombard>no</can-bombard>
+          <comms-rating>100</comms-rating>/&gt;
+</force>
+        <force id="3808">
+          <name>WF - US - Inf Co / Inf Bn</name>
+          <description />
+          <icon>
+            <background-color red="171" green="171" blue="50" />
+            <background-dark-color red="105" green="112" blue="44" />
+            <background-light-color red="232" green="235" blue="203" />
+            <designation-color red="0" green="0" blue="0" />
+            <symbol-color>black</symbol-color>
+            <military-symbol>22</military-symbol>
+            <picture-symbol>infantry</picture-symbol>
+            <force-size-icon>company</force-size-icon>
+            <is-hq>no</is-hq>
+          </icon>
+          <type>infantry</type>
+          <sub-type>Leg Infantry</sub-type>
+          <size>company</size>
+          <combat-class>line</combat-class>
+          <target-class>soft</target-class>
+          <infantry-value>118</infantry-value>
+          <recon-value>20</recon-value>
+          <engineering-value>0</engineering-value>
+          <move-type>foot</move-type>
+          <pers-qty>131</pers-qty>
+          <staff-capacity>1</staff-capacity>
+          <basics-qty>448.0</basics-qty>
+          <basics-consumption-rate-modifier>1.0</basics-consumption-rate-modifier>
+          <commander-rank>2</commander-rank>
+          <fuel-qty>0.0</fuel-qty>
+          <fuel-load>10.0</fuel-load>
+          <speed>
+            <max>9.0</max>
+            <normal>6.0</normal>
+          </speed>
+          <deployment-duration>
+            <deployed>00:05</deployed>
+            <dug-in>02:00</dug-in>
+            <entrenched>2:00:00</entrenched>
+            <fortified>1:00:00</fortified>
+          </deployment-duration>
+          <ready-to-fire-duration>00:00</ready-to-fire-duration>
+          <ready-to-bombard-duration>00:00</ready-to-bombard-duration>
+          <equipment-list>
+            <equipment equipment-object-id="3693" name="10 t M978A4 HEMTT" qty="1" />
+            <equipment equipment-object-id="3661" name="5 t M1083 MTV truck" qty="1" />
+            <equipment equipment-object-id="563" name=".50 cal M2HB HMG" qty="1" />
+            <equipment equipment-object-id="3645" name="5.56mm M249 SAW" qty="18" />
+            <equipment equipment-object-id="3626" name="5.56mm M4 Carbine" qty="106" />
+            <equipment equipment-object-id="3627" name="5.56mm M4 Carbine - M320 GLM" qty="20" />
+            <equipment equipment-object-id="3623" name="60mm M224A1 mortar" qty="2" />
+            <equipment equipment-object-id="3639" name="7.62mm M240B MMG" qty="2" />
+            <equipment equipment-object-id="3630" name="7.62mm M240L LMG" qty="6" />
+            <equipment equipment-object-id="3621" name="M136 AT4" qty="12" />
+          </equipment-list>
+          <ammo-list />
+          <can-bombard>no</can-bombard>
+          <comms-rating>100</comms-rating>/&gt;
+</force>
+        <force id="3810">
+          <name>WF - US - Inf Co / Inf Mtn Bn</name>
+          <description />
+          <icon>
+            <background-color red="171" green="171" blue="50" />
+            <background-dark-color red="105" green="112" blue="44" />
+            <background-light-color red="232" green="235" blue="203" />
+            <designation-color red="0" green="0" blue="0" />
+            <symbol-color>black</symbol-color>
+            <military-symbol>25</military-symbol>
+            <picture-symbol>infantry</picture-symbol>
+            <force-size-icon>company</force-size-icon>
+            <is-hq>no</is-hq>
+          </icon>
+          <type>infantry</type>
+          <sub-type>Mountain Infantry</sub-type>
+          <size>company</size>
+          <combat-class>line</combat-class>
+          <target-class>soft</target-class>
+          <infantry-value>118</infantry-value>
+          <recon-value>20</recon-value>
+          <engineering-value>0</engineering-value>
+          <move-type>foot</move-type>
+          <pers-qty>131</pers-qty>
+          <staff-capacity>1</staff-capacity>
+          <basics-qty>448.0</basics-qty>
+          <basics-consumption-rate-modifier>1.0</basics-consumption-rate-modifier>
+          <commander-rank>2</commander-rank>
+          <fuel-qty>0.0</fuel-qty>
+          <fuel-load>10.0</fuel-load>
+          <speed>
+            <max>9.0</max>
+            <normal>6.0</normal>
+          </speed>
+          <deployment-duration>
+            <deployed>00:05</deployed>
+            <dug-in>02:00</dug-in>
+            <entrenched>2:00:00</entrenched>
+            <fortified>1:00:00</fortified>
+          </deployment-duration>
+          <ready-to-fire-duration>00:00</ready-to-fire-duration>
+          <ready-to-bombard-duration>00:00</ready-to-bombard-duration>
+          <equipment-list>
+            <equipment equipment-object-id="3693" name="10 t M978A4 HEMTT" qty="1" />
+            <equipment equipment-object-id="3661" name="5 t M1083 MTV truck" qty="1" />
+            <equipment equipment-object-id="563" name=".50 cal M2HB HMG" qty="1" />
+            <equipment equipment-object-id="3645" name="5.56mm M249 SAW" qty="18" />
+            <equipment equipment-object-id="3626" name="5.56mm M4 Carbine" qty="106" />
+            <equipment equipment-object-id="3627" name="5.56mm M4 Carbine - M320 GLM" qty="20" />
+            <equipment equipment-object-id="3623" name="60mm M224A1 mortar" qty="2" />
+            <equipment equipment-object-id="3639" name="7.62mm M240B MMG" qty="2" />
+            <equipment equipment-object-id="3630" name="7.62mm M240L LMG" qty="6" />
+            <equipment equipment-object-id="3621" name="M136 AT4" qty="12" />
+          </equipment-list>
+          <ammo-list />
+          <can-bombard>no</can-bombard>
+          <comms-rating>100</comms-rating>/&gt;
+</force>
+        <force id="3811">
+          <name>WF - US - Inf Co / Str Inf Bn</name>
+          <description />
+          <icon>
+            <background-color red="171" green="171" blue="50" />
+            <background-dark-color red="105" green="112" blue="44" />
+            <background-light-color red="232" green="235" blue="203" />
+            <designation-color red="0" green="0" blue="0" />
+            <symbol-color>black</symbol-color>
+            <military-symbol>23</military-symbol>
+            <picture-symbol>motor-inf</picture-symbol>
+            <force-size-icon>company</force-size-icon>
+            <is-hq>no</is-hq>
+          </icon>
+          <type>infantry</type>
+          <sub-type>Mot Infantry</sub-type>
+          <size>company</size>
+          <combat-class>line</combat-class>
+          <target-class>mixed</target-class>
+          <infantry-value>120</infantry-value>
+          <recon-value>20</recon-value>
+          <engineering-value>0</engineering-value>
+          <move-type>wheeled</move-type>
+          <pers-qty>163</pers-qty>
+          <staff-capacity>1</staff-capacity>
+          <basics-qty>448.0</basics-qty>
+          <basics-consumption-rate-modifier>1.0</basics-consumption-rate-modifier>
+          <commander-rank>2</commander-rank>
+          <fuel-qty>0.0</fuel-qty>
+          <fuel-load>10.0</fuel-load>
+          <speed>
+            <max>60.0</max>
+            <normal>40.0</normal>
+          </speed>
+          <deployment-duration>
+            <deployed>00:05</deployed>
+            <dug-in>02:00</dug-in>
+            <entrenched>2:00:00</entrenched>
+            <fortified>1:00:00</fortified>
+          </deployment-duration>
+          <ready-to-fire-duration>00:00</ready-to-fire-duration>
+          <ready-to-bombard-duration>00:00</ready-to-bombard-duration>
+          <equipment-list>
+            <equipment equipment-object-id="3655" name="1-1/4 t truck M1151" qty="2" />
+            <equipment equipment-object-id="3661" name="5 t M1083 MTV truck" qty="2" />
+            <equipment equipment-object-id="3710" name="M1126 ICV - 50 cal MG" qty="16" />
+            <equipment equipment-object-id="3715" name="M1128 MGS - 105 mm" qty="3" />
+            <equipment equipment-object-id="3651" name="40mm Mk 19" qty="7" />
+            <equipment equipment-object-id="3645" name="5.56mm M249 SAW" qty="18" />
+            <equipment equipment-object-id="3626" name="5.56mm M4 Carbine" qty="116" />
+            <equipment equipment-object-id="3627" name="5.56mm M4 Carbine - M320 GLM" qty="19" />
+            <equipment equipment-object-id="3630" name="7.62mm M240L LMG" qty="6" />
+            <equipment equipment-object-id="3623" name="60mm M224A1 mortar" qty="2" />
+          </equipment-list>
+          <ammo-list />
+          <can-bombard>no</can-bombard>
+          <comms-rating>100</comms-rating>/&gt;
+</force>
+        <force id="3812">
+          <name>WF - US - Sustainment Brigade</name>
+          <description />
+          <icon>
+            <background-color red="171" green="171" blue="50" />
+            <background-dark-color red="105" green="112" blue="44" />
+            <background-light-color red="232" green="235" blue="203" />
+            <designation-color red="0" green="0" blue="0" />
+            <symbol-color>black</symbol-color>
+            <military-symbol>46</military-symbol>
+            <picture-symbol>base</picture-symbol>
+            <force-size-icon>brigade</force-size-icon>
+            <is-hq>no</is-hq>
+          </icon>
+          <type>logistics</type>
+          <sub-type>Base</sub-type>
+          <size>brigade</size>
+          <combat-class>base</combat-class>
+          <target-class>soft</target-class>
+          <infantry-value>100</infantry-value>
+          <recon-value>0</recon-value>
+          <engineering-value>0</engineering-value>
+          <move-type>wheeled</move-type>
+          <pers-qty>982</pers-qty>
+          <staff-capacity>0</staff-capacity>
+          <basics-qty>448.0</basics-qty>
+          <basics-consumption-rate-modifier>1.0</basics-consumption-rate-modifier>
+          <commander-rank>5</commander-rank>
+          <fuel-qty>0.0</fuel-qty>
+          <fuel-load>10.0</fuel-load>
+          <speed>
+            <max>30.0</max>
+            <normal>20.0</normal>
+          </speed>
+          <deployment-duration>
+            <deployed>00:05</deployed>
+            <dug-in>02:00</dug-in>
+            <entrenched>2:00:00</entrenched>
+            <fortified>1:00:00</fortified>
+          </deployment-duration>
+          <ready-to-fire-duration>00:00</ready-to-fire-duration>
+          <ready-to-bombard-duration>00:00</ready-to-bombard-duration>
+          <equipment-list>
+            <equipment equipment-object-id="3693" name="10 t M978A4 HEMTT" qty="58" />
+            <equipment equipment-object-id="3701" name="10 t M978A4 HEMTT- .50 cal" qty="30" />
+            <equipment equipment-object-id="3702" name="10 t M978A4 HEMTT- M240" qty="24" />
+            <equipment equipment-object-id="3697" name="10 t M978A4 HEMTT tanker" qty="28" />
+            <equipment equipment-object-id="3699" name="10 t M978A4 HEMTT tanker - .50 cal" qty="13" />
+            <equipment equipment-object-id="3700" name="10 t M978A4 HEMTT tanker - M240" qty="12" />
+            <equipment equipment-object-id="3655" name="1-1/4 t truck M1151" qty="42" />
+            <equipment equipment-object-id="3657" name="1-1/4 t truck M1151 - .50 Cal" qty="20" />
+            <equipment equipment-object-id="3658" name="1-1/4 t truck M1151 - M240" qty="12" />
+            <equipment equipment-object-id="3659" name="1-1/4 t truck M1151 - Mk19" qty="10" />
+            <equipment equipment-object-id="3670" name="2.5 t M1081 LMTV truck" qty="17" />
+            <equipment equipment-object-id="3672" name="2.5 t M1081 LMTV truck - .50 cal" qty="6" />
+            <equipment equipment-object-id="3661" name="5 t M1083 MTV truck" qty="39" />
+            <equipment equipment-object-id="3665" name="5 t M1083 MTV truck - .50 cal" qty="20" />
+            <equipment equipment-object-id="3666" name="5 t M1083 MTV truck - M240" qty="2" />
+            <equipment equipment-object-id="3667" name="5 t M1083 MTV truck - Mk19" qty="8" />
+            <equipment equipment-object-id="3663" name="5 t XM1091 tanker" qty="10" />
+            <equipment equipment-object-id="3664" name="5 t XM1091 tanker - M240" qty="5" />
+            <equipment equipment-object-id="3707" name="M1068A3 CPC" qty="4" />
+            <equipment equipment-object-id="3651" name="40mm Mk 19" qty="7" />
+            <equipment equipment-object-id="3645" name="5.56mm M249 SAW" qty="101" />
+            <equipment equipment-object-id="3626" name="5.56mm M4 Carbine" qty="871" />
+            <equipment equipment-object-id="3627" name="5.56mm M4 Carbine - M320 GLM" qty="24" />
+            <equipment equipment-object-id="3639" name="7.62mm M240B MMG" qty="3" />
+          </equipment-list>
+          <ammo-list />
+          <can-bombard>no</can-bombard>
+          <comms-rating>100</comms-rating>/&gt;
+</force>
+        <force id="3813">
+          <name>WF - US - Scout Plt - Inf Bn</name>
+          <description />
+          <icon>
+            <background-color red="171" green="171" blue="50" />
+            <background-dark-color red="105" green="112" blue="44" />
+            <background-light-color red="232" green="235" blue="203" />
+            <designation-color red="0" green="0" blue="0" />
+            <symbol-color>black</symbol-color>
+            <military-symbol>3</military-symbol>
+            <picture-symbol>infantry</picture-symbol>
+            <force-size-icon>platoon</force-size-icon>
+            <is-hq>no</is-hq>
+          </icon>
+          <type>infantry</type>
+          <sub-type>Mot Recon</sub-type>
+          <size>platoon</size>
+          <combat-class>line</combat-class>
+          <target-class>soft</target-class>
+          <infantry-value>5</infantry-value>
+          <recon-value>15</recon-value>
+          <engineering-value>0</engineering-value>
+          <move-type>wheeled</move-type>
+          <pers-qty>22</pers-qty>
+          <staff-capacity>0</staff-capacity>
+          <basics-qty>448.0</basics-qty>
+          <basics-consumption-rate-modifier>1.0</basics-consumption-rate-modifier>
+          <commander-rank>1</commander-rank>
+          <fuel-qty>0.0</fuel-qty>
+          <fuel-load>10.0</fuel-load>
+          <speed>
+            <max>60.0</max>
+            <normal>40.0</normal>
+          </speed>
+          <deployment-duration>
+            <deployed>00:05</deployed>
+            <dug-in>02:00</dug-in>
+            <entrenched>2:00:00</entrenched>
+            <fortified>1:00:00</fortified>
+          </deployment-duration>
+          <ready-to-fire-duration>00:00</ready-to-fire-duration>
+          <ready-to-bombard-duration>00:00</ready-to-bombard-duration>
+          <equipment-list>
+            <equipment equipment-object-id="3657" name="1-1/4 t truck M1151 - .50 Cal" qty="4" />
+            <equipment equipment-object-id="3659" name="1-1/4 t truck M1151 - Mk19" qty="4" />
+            <equipment equipment-object-id="3626" name="5.56mm M4 Carbine" qty="22" />
+            <equipment equipment-object-id="3621" name="M136 AT4" qty="6" />
+          </equipment-list>
+          <ammo-list />
+          <can-bombard>no</can-bombard>
+          <comms-rating>100</comms-rating>/&gt;
+</force>
+        <force id="3814">
+          <name>WF - US - Scout Plt - CAB</name>
+          <description />
+          <icon>
+            <background-color red="171" green="171" blue="50" />
+            <background-dark-color red="105" green="112" blue="44" />
+            <background-light-color red="232" green="235" blue="203" />
+            <designation-color red="0" green="0" blue="0" />
+            <symbol-color>black</symbol-color>
+            <military-symbol>5</military-symbol>
+            <picture-symbol>armoured-car</picture-symbol>
+            <force-size-icon>platoon</force-size-icon>
+            <is-hq>no</is-hq>
+          </icon>
+          <type>armour</type>
+          <sub-type>Armoured Recon</sub-type>
+          <size>platoon</size>
+          <combat-class>line</combat-class>
+          <target-class>mixed</target-class>
+          <infantry-value>13</infantry-value>
+          <recon-value>20</recon-value>
+          <engineering-value>0</engineering-value>
+          <move-type>tracked</move-type>
+          <pers-qty>38</pers-qty>
+          <staff-capacity>0</staff-capacity>
+          <basics-qty>448.0</basics-qty>
+          <basics-consumption-rate-modifier>1.0</basics-consumption-rate-modifier>
+          <commander-rank>1</commander-rank>
+          <fuel-qty>0.0</fuel-qty>
+          <fuel-load>10.0</fuel-load>
+          <speed>
+            <max>60.0</max>
+            <normal>40.0</normal>
+          </speed>
+          <deployment-duration>
+            <deployed>00:05</deployed>
+            <dug-in>02:00</dug-in>
+            <entrenched>2:00:00</entrenched>
+            <fortified>1:00:00</fortified>
+          </deployment-duration>
+          <ready-to-fire-duration>00:00</ready-to-fire-duration>
+          <ready-to-bombard-duration>00:00</ready-to-bombard-duration>
+          <equipment-list>
+            <equipment equipment-object-id="3659" name="1-1/4 t truck M1151 - Mk19" qty="2" />
+            <equipment equipment-object-id="3657" name="1-1/4 t truck M1151 - .50 Cal" qty="3" />
+            <equipment equipment-object-id="3685" name="M3A3 Bradley CFV" qty="3" />
+            <equipment equipment-object-id="3621" name="M136 AT4" qty="8" />
+            <equipment equipment-object-id="3626" name="5.56mm M4 Carbine" qty="24" />
+            <equipment equipment-object-id="3627" name="5.56mm M4 Carbine - M320 GLM" qty="5" />
+          </equipment-list>
+          <ammo-list />
+          <can-bombard>no</can-bombard>
+          <comms-rating>100</comms-rating>/&gt;
+</force>
+        <force id="3815">
+          <name>WF - US - Scout Plt - Str Bn</name>
+          <description />
+          <icon>
+            <background-color red="171" green="171" blue="50" />
+            <background-dark-color red="105" green="112" blue="44" />
+            <background-light-color red="232" green="235" blue="203" />
+            <designation-color red="0" green="0" blue="0" />
+            <symbol-color>black</symbol-color>
+            <military-symbol>3</military-symbol>
+            <picture-symbol>armoured-car</picture-symbol>
+            <force-size-icon>platoon</force-size-icon>
+            <is-hq>no</is-hq>
+          </icon>
+          <type>infantry</type>
+          <sub-type>Mot Recon</sub-type>
+          <size>platoon</size>
+          <combat-class>line</combat-class>
+          <target-class>mixed</target-class>
+          <infantry-value>5</infantry-value>
+          <recon-value>15</recon-value>
+          <engineering-value>0</engineering-value>
+          <move-type>wheeled</move-type>
+          <pers-qty>24</pers-qty>
+          <staff-capacity>0</staff-capacity>
+          <basics-qty>448.0</basics-qty>
+          <basics-consumption-rate-modifier>1.0</basics-consumption-rate-modifier>
+          <commander-rank>1</commander-rank>
+          <fuel-qty>0.0</fuel-qty>
+          <fuel-load>10.0</fuel-load>
+          <speed>
+            <max>60.0</max>
+            <normal>40.0</normal>
+          </speed>
+          <deployment-duration>
+            <deployed>00:05</deployed>
+            <dug-in>02:00</dug-in>
+            <entrenched>2:00:00</entrenched>
+            <fortified>1:00:00</fortified>
+          </deployment-duration>
+          <ready-to-fire-duration>00:00</ready-to-fire-duration>
+          <ready-to-bombard-duration>00:00</ready-to-bombard-duration>
+          <equipment-list>
+            <equipment equipment-object-id="3710" name="M1126 ICV - 50 cal MG" qty="2" />
+            <equipment equipment-object-id="3712" name="M1126 ICV - Mk19" qty="2" />
+            <equipment equipment-object-id="3626" name="5.56mm M4 Carbine" qty="24" />
+          </equipment-list>
+          <ammo-list />
+          <can-bombard>no</can-bombard>
+          <comms-rating>100</comms-rating>/&gt;
+</force>
+        <force id="3816">
+          <name>WF - US - Str Bridge Pl / Str Eng Bn</name>
+          <description />
+          <icon>
+            <background-color red="171" green="171" blue="50" />
+            <background-dark-color red="105" green="112" blue="44" />
+            <background-light-color red="232" green="235" blue="203" />
+            <designation-color red="0" green="0" blue="0" />
+            <symbol-color>black</symbol-color>
+            <military-symbol>43</military-symbol>
+            <picture-symbol>bridging</picture-symbol>
+            <force-size-icon>platoon</force-size-icon>
+            <is-hq>no</is-hq>
+          </icon>
+          <type>logistics</type>
+          <sub-type>Bridge Engineer</sub-type>
+          <size>platoon</size>
+          <combat-class>support</combat-class>
+          <target-class>soft</target-class>
+          <infantry-value>0</infantry-value>
+          <recon-value>0</recon-value>
+          <engineering-value>5</engineering-value>
+          <move-type>wheeled</move-type>
+          <pers-qty>26</pers-qty>
+          <staff-capacity>0</staff-capacity>
+          <basics-qty>448.0</basics-qty>
+          <basics-consumption-rate-modifier>1.0</basics-consumption-rate-modifier>
+          <commander-rank>1</commander-rank>
+          <fuel-qty>0.0</fuel-qty>
+          <fuel-load>10.0</fuel-load>
+          <speed>
+            <max>60.0</max>
+            <normal>40.0</normal>
+          </speed>
+          <deployment-duration>
+            <deployed>00:05</deployed>
+            <dug-in>02:00</dug-in>
+            <entrenched>2:00:00</entrenched>
+            <fortified>1:00:00</fortified>
+          </deployment-duration>
+          <ready-to-fire-duration>00:00</ready-to-fire-duration>
+          <ready-to-bombard-duration>00:00</ready-to-bombard-duration>
+          <equipment-list>
+            <equipment equipment-object-id="3695" name="M1977 CBT HEMTT" qty="4" />
+            <equipment equipment-object-id="3657" name="1-1/4 t truck M1151 - .50 Cal" qty="1" />
+            <equipment equipment-object-id="3626" name="5.56mm M4 Carbine" qty="26" />
+          </equipment-list>
+          <ammo-list />
+          <can-bombard>no</can-bombard>
+          <comms-rating>100</comms-rating>/&gt;
+</force>
+        <force id="3817">
+          <name>WF - US - Str TOW AT Coy</name>
+          <description />
+          <icon>
+            <background-color red="171" green="171" blue="50" />
+            <background-dark-color red="105" green="112" blue="44" />
+            <background-light-color red="232" green="235" blue="203" />
+            <designation-color red="0" green="0" blue="0" />
+            <symbol-color>black</symbol-color>
+            <military-symbol>17</military-symbol>
+            <picture-symbol>assault-gun</picture-symbol>
+            <force-size-icon>company</force-size-icon>
+            <is-hq>no</is-hq>
+          </icon>
+          <type>armour</type>
+          <sub-type>Tank Destroyer</sub-type>
+          <size>company</size>
+          <combat-class>line-support</combat-class>
+          <target-class>mixed</target-class>
+          <infantry-value>10</infantry-value>
+          <recon-value>5</recon-value>
+          <engineering-value>0</engineering-value>
+          <move-type>wheeled</move-type>
+          <pers-qty>53</pers-qty>
+          <staff-capacity>1</staff-capacity>
+          <basics-qty>448.0</basics-qty>
+          <basics-consumption-rate-modifier>1.0</basics-consumption-rate-modifier>
+          <commander-rank>2</commander-rank>
+          <fuel-qty>0.0</fuel-qty>
+          <fuel-load>10.0</fuel-load>
+          <speed>
+            <max>60.0</max>
+            <normal>40.0</normal>
+          </speed>
+          <deployment-duration>
+            <deployed>00:05</deployed>
+            <dug-in>02:00</dug-in>
+            <entrenched>2:00:00</entrenched>
+            <fortified>1:00:00</fortified>
+          </deployment-duration>
+          <ready-to-fire-duration>00:00</ready-to-fire-duration>
+          <ready-to-bombard-duration>00:00</ready-to-bombard-duration>
+          <equipment-list>
+            <equipment equipment-object-id="3655" name="1-1/4 t truck M1151" qty="1" />
+            <equipment equipment-object-id="3661" name="5 t M1083 MTV truck" qty="2" />
+            <equipment equipment-object-id="3710" name="M1126 ICV - 50 cal MG" qty="2" />
+            <equipment equipment-object-id="3717" name="M1134 ATGM- TOW" qty="9" />
+            <equipment equipment-object-id="3626" name="5.56mm M4 Carbine" qty="44" />
+            <equipment equipment-object-id="3627" name="5.56mm M4 Carbine - M320 GLM" qty="5" />
+          </equipment-list>
+          <ammo-list />
+          <can-bombard>no</can-bombard>
+          <comms-rating>100</comms-rating>/&gt;
+</force>
+        <force id="3818">
+          <name>WF - US - Weapons Coy / Inf Bn</name>
+          <description />
+          <icon>
+            <background-color red="171" green="171" blue="50" />
+            <background-dark-color red="105" green="112" blue="44" />
+            <background-light-color red="232" green="235" blue="203" />
+            <designation-color red="0" green="0" blue="0" />
+            <symbol-color>black</symbol-color>
+            <military-symbol>36</military-symbol>
+            <picture-symbol>hmg</picture-symbol>
+            <force-size-icon>company</force-size-icon>
+            <is-hq>no</is-hq>
+          </icon>
+          <type>infantry</type>
+          <sub-type>Hvy Wpns Infantry</sub-type>
+          <size>company</size>
+          <combat-class>line-support</combat-class>
+          <target-class>soft</target-class>
+          <infantry-value>39</infantry-value>
+          <recon-value>10</recon-value>
+          <engineering-value>0</engineering-value>
+          <move-type>wheeled</move-type>
+          <pers-qty>79</pers-qty>
+          <staff-capacity>0</staff-capacity>
+          <basics-qty>448.0</basics-qty>
+          <basics-consumption-rate-modifier>1.0</basics-consumption-rate-modifier>
+          <commander-rank>2</commander-rank>
+          <fuel-qty>0.0</fuel-qty>
+          <fuel-load>10.0</fuel-load>
+          <speed>
+            <max>60.0</max>
+            <normal>40.0</normal>
+          </speed>
+          <deployment-duration>
+            <deployed>00:05</deployed>
+            <dug-in>02:00</dug-in>
+            <entrenched>2:00:00</entrenched>
+            <fortified>1:00:00</fortified>
+          </deployment-duration>
+          <ready-to-fire-duration>00:00</ready-to-fire-duration>
+          <ready-to-bombard-duration>00:00</ready-to-bombard-duration>
+          <equipment-list>
+            <equipment equipment-object-id="3655" name="1-1/4 t truck M1151" qty="6" />
+            <equipment equipment-object-id="3657" name="1-1/4 t truck M1151 - .50 Cal" qty="4" />
+            <equipment equipment-object-id="3659" name="1-1/4 t truck M1151 - Mk19" qty="4" />
+            <equipment equipment-object-id="3660" name="1-1/4 t truck M1167 - TOW" qty="8" />
+            <equipment equipment-object-id="3661" name="5 t M1083 MTV truck" qty="1" />
+            <equipment equipment-object-id="3651" name="40mm Mk 19" qty="4" />
+            <equipment equipment-object-id="563" name=".50 cal M2HB HMG" qty="6" />
+            <equipment equipment-object-id="3626" name="5.56mm M4 Carbine" qty="60" />
+            <equipment equipment-object-id="3630" name="7.62mm M240L LMG" qty="8" />
+          </equipment-list>
+          <ammo-list />
+          <can-bombard>no</can-bombard>
+          <comms-rating>100</comms-rating>/&gt;
+</force>
       </service>
     </nation>
     <nation id="2690">
@@ -52930,7 +55379,7 @@ The Sturmpanzer IV still is commonly refered to as the 'Brummbaer' (Grizzly Bear
     <must-deploy-to-fire>yes</must-deploy-to-fire>
     <performance-list>
       <performance fire-type="aper">
-        <ammo object-id="3619" load="0" />
+        <ammo object-id="3619" load="50" />
         <min-range>50</min-range>
         <rof slow="0.25" normal="1.5" rapid="3.0" />
         <burst-radius>10</burst-radius>
@@ -52940,7 +55389,7 @@ The Sturmpanzer IV still is commonly refered to as the 'Brummbaer' (Grizzly Bear
           <range-item range="1000" accuracy="0.504883" armour-penetration="0.0" />
           <range-item range="2000" accuracy="0.504883" armour-penetration="0.0" />
           <range-item range="3010" accuracy="0.504883" armour-penetration="0.0" />
-          <range-item range="7240" accuracy=".5" armour-penetration="0" />
+          <range-item range="7240" accuracy="0.5" armour-penetration="0" />
         </range-table>
       </performance>
       <performance fire-type="bombard">
@@ -52954,7 +55403,7 @@ The Sturmpanzer IV still is commonly refered to as the 'Brummbaer' (Grizzly Bear
           <range-item range="1000" accuracy="0.504883" armour-penetration="0.0" />
           <range-item range="2000" accuracy="0.504883" armour-penetration="0.0" />
           <range-item range="3010" accuracy="0.504883" armour-penetration="0.0" />
-          <range-item range="7240" accuracy=",5" armour-penetration="0" />
+          <range-item range="7240" accuracy="0,5" armour-penetration="0" />
         </range-table>
       </performance>
     </performance-list>
@@ -53511,8 +55960,7 @@ The Sturmpanzer IV still is commonly refered to as the 'Brummbaer' (Grizzly Bear
         <burst-radius>0</burst-radius>
         <shell-weight>0.009766</shell-weight>
         <range-table>
-          <range-item range="50" accuracy="0.9" armour-penetration="0.0" />
-          <range-item range="100" accuracy="0.8" armour-penetration="0.0" />
+          <range-item range="100" accuracy="0.9" armour-penetration="0.0" />
           <range-item range="150" accuracy="0.8" armour-penetration="0.0" />
           <range-item range="200" accuracy="0.7" armour-penetration="0.0" />
           <range-item range="300" accuracy="0.5" armour-penetration="0.0" />
@@ -53545,8 +55993,7 @@ The Sturmpanzer IV still is commonly refered to as the 'Brummbaer' (Grizzly Bear
         <burst-radius>0</burst-radius>
         <shell-weight>0.009766</shell-weight>
         <range-table>
-          <range-item range="50" accuracy="0.9" armour-penetration="0.0" />
-          <range-item range="100" accuracy="0.8" armour-penetration="0.0" />
+          <range-item range="100" accuracy="0.9" armour-penetration="0.0" />
           <range-item range="150" accuracy="0.8" armour-penetration="0.0" />
           <range-item range="200" accuracy="0.7" armour-penetration="0.0" />
           <range-item range="300" accuracy="0.5" armour-penetration="0.0" />
@@ -59401,7 +61848,6 @@ The Sturmpanzer IV still is commonly refered to as the 'Brummbaer' (Grizzly Bear
           <range-item range="100" accuracy="0.984863" armour-penetration="0.0" />
           <range-item range="200" accuracy="0.944824" armour-penetration="0.0" />
           <range-item range="400" accuracy="0.86499" armour-penetration="0.0" />
-          <range-item range="600" accuracy="0.764893" armour-penetration="0.0" />
           <range-item range="800" accuracy="0.644775" armour-penetration="0.0" />
           <range-item range="1000" accuracy="0.514893" armour-penetration="0.0" />
           <range-item range="2000" accuracy=".38" armour-penetration="0" />
@@ -59579,7 +62025,6 @@ M26A1 (United States): Extended Range Rocket (ERR), with range of 45 km and 518 
           <range-item range="100" accuracy="0.984863" armour-penetration="10.0" />
           <range-item range="200" accuracy="0.944824" armour-penetration="10.0" />
           <range-item range="400" accuracy="0.86499" armour-penetration="10.0" />
-          <range-item range="600" accuracy="0.764893" armour-penetration="5.0" />
           <range-item range="800" accuracy="0.644775" armour-penetration="5.0" />
           <range-item range="1000" accuracy="0.514893" armour-penetration="5.0" />
           <range-item range="1500" accuracy=".4" armour-penetration="5" />
@@ -59613,7 +62058,6 @@ M26A1 (United States): Extended Range Rocket (ERR), with range of 45 km and 518 
           <range-item range="100" accuracy="0.984863" armour-penetration="10.0" />
           <range-item range="200" accuracy="0.944824" armour-penetration="10.0" />
           <range-item range="400" accuracy="0.86499" armour-penetration="10.0" />
-          <range-item range="600" accuracy="0.764893" armour-penetration="5.0" />
           <range-item range="800" accuracy="0.644775" armour-penetration="5.0" />
           <range-item range="1000" accuracy="0.514893" armour-penetration="5.0" />
           <range-item range="1500" accuracy=".4" armour-penetration="5" />
