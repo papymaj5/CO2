@@ -40499,7 +40499,7 @@
             <background-light-color red="197" green="204" blue="122" />
             <designation-color red="255" green="238" blue="166" />
             <symbol-color>black</symbol-color>
-            <military-symbol>28</military-symbol>
+            <military-symbol>27</military-symbol>
             <picture-symbol>hq</picture-symbol>
             <force-size-icon>division</force-size-icon>
             <is-hq>yes</is-hq>
@@ -40624,7 +40624,7 @@
             <background-light-color red="197" green="204" blue="122" />
             <designation-color red="255" green="238" blue="166" />
             <symbol-color>black</symbol-color>
-            <military-symbol>30</military-symbol>
+            <military-symbol>29</military-symbol>
             <picture-symbol>hq</picture-symbol>
             <force-size-icon>brigade</force-size-icon>
             <is-hq>yes</is-hq>
@@ -42092,7 +42092,7 @@
           <comms-rating>100</comms-rating>/&gt;
 </force>
         <force id="3770">
-          <name>WF - US - Arm Recon Sqn HQ</name>
+          <name>WF - US - Arm Cavalry Sqn HQ</name>
           <description />
           <icon>
             <background-color red="171" green="171" blue="50" />
@@ -42405,7 +42405,7 @@
             <background-light-color red="232" green="235" blue="203" />
             <designation-color red="0" green="0" blue="0" />
             <symbol-color>black</symbol-color>
-            <military-symbol>26</military-symbol>
+            <military-symbol>25</military-symbol>
             <picture-symbol>hq</picture-symbol>
             <force-size-icon>brigade</force-size-icon>
             <is-hq>yes</is-hq>
@@ -42760,7 +42760,7 @@
             <background-light-color red="232" green="235" blue="203" />
             <designation-color red="0" green="0" blue="0" />
             <symbol-color>black</symbol-color>
-            <military-symbol>6</military-symbol>
+            <military-symbol>23</military-symbol>
             <picture-symbol>hq</picture-symbol>
             <force-size-icon>brigade</force-size-icon>
             <is-hq>yes</is-hq>
@@ -42874,9 +42874,9 @@
             <background-light-color red="232" green="235" blue="203" />
             <designation-color red="0" green="0" blue="0" />
             <symbol-color>black</symbol-color>
-            <military-symbol>22</military-symbol>
-            <picture-symbol>infantry</picture-symbol>
-            <force-size-icon>company</force-size-icon>
+            <military-symbol>23</military-symbol>
+            <picture-symbol>motor-inf</picture-symbol>
+            <force-size-icon>battalion</force-size-icon>
             <is-hq>yes</is-hq>
           </icon>
           <type>infantry</type>
@@ -42919,7 +42919,7 @@
           <comms-rating>100</comms-rating>/&gt;
 </force>
         <force id="3785">
-          <name>WF - US - Str Recon Sqn HQ</name>
+          <name>WF - US - Str Cav Sqn HQ</name>
           <description />
           <icon>
             <background-color red="171" green="171" blue="50" />
@@ -43992,7 +43992,7 @@
           <comms-rating>100</comms-rating>/&gt;
 </force>
         <force id="3803">
-          <name>WF - US - Recce Trp / Str Cav Bn</name>
+          <name>WF - US - Cav Trp / Str Cav Bn</name>
           <description />
           <icon>
             <background-color red="171" green="171" blue="50" />
@@ -44000,8 +44000,8 @@
             <background-light-color red="232" green="235" blue="203" />
             <designation-color red="0" green="0" blue="0" />
             <symbol-color>black</symbol-color>
-            <military-symbol>3</military-symbol>
-            <picture-symbol>motor-inf</picture-symbol>
+            <military-symbol>5</military-symbol>
+            <picture-symbol>armoured-car</picture-symbol>
             <force-size-icon>company</force-size-icon>
             <is-hq>no</is-hq>
           </icon>
@@ -44840,6 +44840,62 @@
             <equipment equipment-object-id="563" name=".50 cal M2HB HMG" qty="6" />
             <equipment equipment-object-id="3626" name="5.56mm M4 Carbine" qty="60" />
             <equipment equipment-object-id="3630" name="7.62mm M240L LMG" qty="8" />
+          </equipment-list>
+          <ammo-list />
+          <can-bombard>no</can-bombard>
+          <comms-rating>100</comms-rating>/&gt;
+</force>
+        <force id="3819">
+          <name>WF - US - IBCT HQ</name>
+          <description />
+          <icon>
+            <background-color red="171" green="171" blue="50" />
+            <background-dark-color red="105" green="112" blue="44" />
+            <background-light-color red="232" green="235" blue="203" />
+            <designation-color red="0" green="0" blue="0" />
+            <symbol-color>black</symbol-color>
+            <military-symbol>22</military-symbol>
+            <picture-symbol>hq</picture-symbol>
+            <force-size-icon>brigade</force-size-icon>
+            <is-hq>yes</is-hq>
+          </icon>
+          <type>infantry</type>
+          <sub-type>Non-Armoured HQ</sub-type>
+          <size>brigade</size>
+          <combat-class>hq</combat-class>
+          <target-class>soft</target-class>
+          <infantry-value>0</infantry-value>
+          <recon-value>0</recon-value>
+          <engineering-value>0</engineering-value>
+          <move-type>wheeled</move-type>
+          <pers-qty>178</pers-qty>
+          <staff-capacity>9</staff-capacity>
+          <basics-qty>448.0</basics-qty>
+          <basics-consumption-rate-modifier>1.0</basics-consumption-rate-modifier>
+          <commander-rank>5</commander-rank>
+          <fuel-qty>0.0</fuel-qty>
+          <fuel-load>10.0</fuel-load>
+          <speed>
+            <max>60.0</max>
+            <normal>40.0</normal>
+          </speed>
+          <deployment-duration>
+            <deployed>00:05</deployed>
+            <dug-in>02:00</dug-in>
+            <entrenched>2:00:00</entrenched>
+            <fortified>1:00:00</fortified>
+          </deployment-duration>
+          <ready-to-fire-duration>00:00</ready-to-fire-duration>
+          <ready-to-bombard-duration>00:00</ready-to-bombard-duration>
+          <equipment-list>
+            <equipment equipment-object-id="3655" name="1-1/4 t truck M1151" qty="31" />
+            <equipment equipment-object-id="3670" name="2.5 t M1081 LMTV truck" qty="5" />
+            <equipment equipment-object-id="3661" name="5 t M1083 MTV truck" qty="2" />
+            <equipment equipment-object-id="3657" name="1-1/4 t truck M1151 - .50 Cal" qty="1" />
+            <equipment equipment-object-id="3658" name="1-1/4 t truck M1151 - M240" qty="4" />
+            <equipment equipment-object-id="3645" name="5.56mm M249 SAW" qty="6" />
+            <equipment equipment-object-id="3626" name="5.56mm M4 Carbine" qty="160" />
+            <equipment equipment-object-id="3627" name="5.56mm M4 Carbine - M320 GLM" qty="4" />
           </equipment-list>
           <ammo-list />
           <can-bombard>no</can-bombard>
