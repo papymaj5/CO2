@@ -43852,10 +43852,10 @@
           <basics-consumption-rate-modifier>1.0</basics-consumption-rate-modifier>
           <commander-rank>2</commander-rank>
           <fuel-qty>0.0</fuel-qty>
-          <fuel-load>10.0</fuel-load>
+          <fuel-load>12.0</fuel-load>
           <speed>
-            <max>60.0</max>
-            <normal>40.0</normal>
+            <max>70.0</max>
+            <normal>50.0</normal>
           </speed>
           <deployment-duration>
             <deployed>00:05</deployed>
@@ -59225,7 +59225,7 @@ The Sturmpanzer IV still is commonly refered to as the 'Brummbaer' (Grizzly Bear
           <range-item range="1000" accuracy="0.634766" armour-penetration="216.68457" />
           <range-item range="1500" accuracy="0.484863" armour-penetration="152.513428" />
           <range-item range="2000" accuracy="0.344971" armour-penetration="122.702637" />
-          <range-item range="3000" accuracy=".3" armour-penetration="102" />
+          <range-item range="3000" accuracy="0.3" armour-penetration="102.0" />
         </range-table>
       </performance>
       <performance fire-type="aper">
